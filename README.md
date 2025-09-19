@@ -50,9 +50,9 @@ The repository is organized into numbered Jupyter notebooks. Running them in ord
 
 ## Reproducing Results
 
-- The pipeline runs end-to-end: from **empirical preprocessing** (1) to **BOLD-level analysis and data comparison** (7).  
-- Each notebook generates the figures corresponding to its stage of analysis (e.g., Fig. 2 = local dynamics, Fig. 3–5 = whole-brain simulations).  
-- Avalanche analyses, power spectra, and autocorrelation timescales are reproduced in analysis notebooks (6–7).  
+- The pipeline runs end-to-end: from **empirical preprocessing** (1) to **BOLD-level analysis and data comparison**.  
+- Each notebook generates the figures corresponding to its stage of analysis.
+- Avalanche analyses, power spectra, and autocorrelation timescales are reproduced in analysis notebooks.  
 
 ---
 
