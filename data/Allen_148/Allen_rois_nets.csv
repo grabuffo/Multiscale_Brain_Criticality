@@ -1,0 +1,149 @@
+,Region,Network,instrength
+0,"Right Frontal pole, cerebral cortex",Basofrontal,3.92224855
+1,Right Primary motor area,Laterocortical,4.3402834
+2,"Right Primary somatosensory area, nose",Laterocortical,1.15079271
+3,"Right Primary somatosensory area, barrel field",Laterocortical,3.91246495
+4,"Right Primary somatosensory area, lower limb",Default mode Network,2.92705061
+5,"Right Primary somatosensory area, mouth",Laterocortical,1.90489588
+6,"Right Primary somatosensory area, upper limb",Laterocortical,1.30506221
+7,"Right Primary somatosensory area, trunk",Default mode Network,1.42452776
+8,Right Supplemental somatosensory area,Laterocortical,2.77930663
+9,Right Primary auditory area,Visual-auditory,2.40481731
+10,Right Anterolateral visual area,Visual-auditory,6.2999092
+11,Right Anteromedial visual area,Visual-auditory,6.33820205
+12,Right Lateral visual area,Visual-auditory,5.78637003
+13,Right Primary visual area,Visual-auditory,2.90231149
+14,Right posteromedial visual area,Visual-auditory,3.88540058
+15,"Right Anterior cingulate area, dorsal part",Default mode Network,4.69539427
+16,"Right Anterior cingulate area, ventral part",Default mode Network,3.5521224
+17,Right Infralimbic area,Default mode Network,2.37962329
+18,"Right Orbital area, lateral part",Default mode Network,2.04980733
+19,"Right Orbital area, medial part",Default mode Network,5.01771464
+20,"Right Agranular insular area, dorsal part",Laterocortical,6.70411384
+21,"Right Agranular insular area, posterior part",Laterocortical,4.05172986
+22,"Right Retrosplenial area, lateral agranular part",Default mode Network,2.41819405
+23,"Right Retrosplenial area, dorsal part",Default mode Network,1.94172483
+24,"Right Retrosplenial area, ventral part",Default mode Network,3.41833601
+25,Right Temporal association areas,Laterocortical,4.30067943
+26,Right Ectorhinal area,Laterocortical,5.41625841
+27,Right Anterior olfactory nucleus,Basofrontal,0.545908392
+28,"Right Cortical amygdalar area, posterior part",Basofrontal,1.20086303
+29,Right Postpiriform transition area,Basofrontal,2.79154669
+30,Right Field CA1,Hippocampus,3.32933061
+31,Right Field CA3,Hippocampus,2.23073441
+32,Right Dentate gyrus,Hippocampus,0.538631985
+33,"Right Entorhinal area, lateral part",Hippocampus,4.34791074
+34,Right Parasubiculum,Hippocampus,0.0666048916
+35,Right Subiculum,Hippocampus,4.20112681
+36,"Right Endopiriform nucleus, dorsal part",Basofrontal,3.98458526
+37,Right Lateral amygdalar nucleus,Basofrontal,4.26262397
+38,Right Basolateral amygdalar nucleus,Basofrontal,4.75960432
+39,Right Basomedial amygdalar nucleus,Basofrontal,2.07111827
+40,Right Caudoputamen,Basofrontal,0.537907112
+41,Right Nucleus accumbens,Basofrontal,1.32937486
+42,"Right Lateral septal nucleus, rostral (rostroventral) part",Basofrontal,3.4747769
+43,Right Substantia innominata,Basofrontal,1.32581292
+44,Right Ventral anterior-lateral complex of the thalamus,Thalamus,0.803020294
+45,Right Ventral medial nucleus of the thalamus,Thalamus,0.237988666
+46,Right Medial geniculate complex,Thalamus,0.590573875
+47,Right Dorsal part of the lateral geniculate complex,Thalamus,1.56191411
+48,Right Lateral posterior nucleus of the thalamus,Thalamus,1.51947941
+49,Right Posterior complex of the thalamus,Thalamus,0.176650466
+50,Right Lateral dorsal nucleus of thalamus,Thalamus,0.953476619
+51,Right Mediodorsal nucleus of thalamus,Thalamus,1.17020776
+52,Right Reticular nucleus of the thalamus,Thalamus,3.64351917
+53,Right Anterior hypothalamic nucleus,Basofrontal,1.18050484
+54,Right Lateral hypothalamic area,Basofrontal,2.37233132
+55,Right Inferior colliculus,Cerebellum,2.27087826
+56,Right Midbrain reticular nucleus,Cerebellum,2.02217182
+57,"Right Superior colliculus, motor related",Cerebellum,1.66421412
+58,Right Anterior pretectal nucleus,Cerebellum,1.98320545
+59,Right Principal sensory nucleus of the trigeminal,Cerebellum,2.80043223
+60,Right Pontine reticular nucleus,Cerebellum,1.57608227
+61,Right Ventral cochlear nucleus,Cerebellum,0.237817435
+62,Right Nucleus of the solitary tract,Cerebellum,1.21861898
+63,"Right Spinal nucleus of the trigeminal, caudal part",Cerebellum,1.18085558
+64,Right Intermediate reticular nucleus,Cerebellum,1.82950504
+65,Right Medullary reticular nucleus,Cerebellum,1.05303308
+66,Right Medial vestibular nucleus,Cerebellum,0.734526716
+67,Right Central lobule,Cerebellum,0.13950585
+68,Right Culmen,Cerebellum,0.377422101
+69,Right Folium-tuber vermis (VII),Cerebellum,0.00361989849
+70,Right Ansiform lobule,Cerebellum,0.119927398
+71,Right Paramedian lobule,Cerebellum,0.0329727147
+72,Right Paraflocculus,Cerebellum,0.0964862245
+73,Right Interposed nucleus,Cerebellum,1.74791942
+74,"Left Frontal pole, cerebral cortex",Basofrontal,3.92224855
+75,Left Primary motor area,Laterocortical,4.3402834
+76,"Left Primary somatosensory area, nose",Laterocortical,1.15079271
+77,"Left Primary somatosensory area, barrel field",Laterocortical,3.91246495
+78,"Left Primary somatosensory area, lower limb",Default mode Network,2.92705061
+79,"Left Primary somatosensory area, mouth",Laterocortical,1.90489588
+80,"Left Primary somatosensory area, upper limb",Laterocortical,1.30506221
+81,"Left Primary somatosensory area, trunk",Default mode Network,1.42452776
+82,Left Supplemental somatosensory area,Laterocortical,2.77930663
+83,Left Primary auditory area,Visual-auditory,2.40481731
+84,Left Anterolateral visual area,Visual-auditory,6.2999092
+85,Left Anteromedial visual area,Visual-auditory,6.33820205
+86,Left Lateral visual area,Visual-auditory,5.78637003
+87,Left Primary visual area,Visual-auditory,2.90231149
+88,Left posteromedial visual area,Visual-auditory,3.88540058
+89,"Left Anterior cingulate area, dorsal part",Default mode Network,4.69539427
+90,"Left Anterior cingulate area, ventral part",Default mode Network,3.5521224
+91,Left Infralimbic area,Default mode Network,2.37962329
+92,"Left Orbital area, lateral part",Default mode Network,2.04980733
+93,"Left Orbital area, medial part",Default mode Network,5.01771464
+94,"Left Agranular insular area, dorsal part",Laterocortical,6.70411384
+95,"Left Agranular insular area, posterior part",Laterocortical,4.05172986
+96,"Left Retrosplenial area, lateral agranular part",Default mode Network,2.41819405
+97,"Left Retrosplenial area, dorsal part",Default mode Network,1.94172483
+98,"Left Retrosplenial area, ventral part",Default mode Network,3.41833601
+99,Left Temporal association areas,Laterocortical,4.30067943
+100,Left Ectorhinal area,Laterocortical,5.41625841
+101,Left Anterior olfactory nucleus,Basofrontal,0.545908392
+102,"Left Cortical amygdalar area, posterior part",Basofrontal,1.20086303
+103,Left Postpiriform transition area,Basofrontal,2.79154669
+104,Left Field CA1,Hippocampus,3.32933061
+105,Left Field CA3,Hippocampus,2.23073441
+106,Left Dentate gyrus,Hippocampus,0.538631985
+107,"Left Entorhinal area, lateral part",Hippocampus,4.34791074
+108,Left Parasubiculum,Hippocampus,0.0666048916
+109,Left Subiculum,Hippocampus,4.20112681
+110,"Left Endopiriform nucleus, dorsal part",Basofrontal,3.98458526
+111,Left Lateral amygdalar nucleus,Basofrontal,4.26262397
+112,Left Basolateral amygdalar nucleus,Basofrontal,4.75960432
+113,Left Basomedial amygdalar nucleus,Basofrontal,2.07111827
+114,Left Caudoputamen,Basofrontal,0.537907112
+115,Left Nucleus accumbens,Basofrontal,1.32937486
+116,"Left Lateral septal nucleus, rostral (rostroventral) part",Basofrontal,3.4747769
+117,Left Substantia innominata,Basofrontal,1.32581292
+118,Left Ventral anterior-lateral complex of the thalamus,Thalamus,0.803020294
+119,Left Ventral medial nucleus of the thalamus,Thalamus,0.237988666
+120,Left Medial geniculate complex,Thalamus,0.590573875
+121,Left Dorsal part of the lateral geniculate complex,Thalamus,1.56191411
+122,Left Lateral posterior nucleus of the thalamus,Thalamus,1.51947941
+123,Left Posterior complex of the thalamus,Thalamus,0.176650466
+124,Left Lateral dorsal nucleus of thalamus,Thalamus,0.953476619
+125,Left Mediodorsal nucleus of thalamus,Thalamus,1.17020776
+126,Left Reticular nucleus of the thalamus,Thalamus,3.64351917
+127,Left Anterior hypothalamic nucleus,Basofrontal,1.18050484
+128,Left Lateral hypothalamic area,Basofrontal,2.37233132
+129,Left Inferior colliculus,Cerebellum,2.27087826
+130,Left Midbrain reticular nucleus,Cerebellum,2.02217182
+131,"Left Superior colliculus, motor related",Cerebellum,1.66421412
+132,Left Anterior pretectal nucleus,Cerebellum,1.98320545
+133,Left Principal sensory nucleus of the trigeminal,Cerebellum,2.80043223
+134,Left Pontine reticular nucleus,Cerebellum,1.57608227
+135,Left Ventral cochlear nucleus,Cerebellum,0.237817435
+136,Left Nucleus of the solitary tract,Cerebellum,1.21861898
+137,"Left Spinal nucleus of the trigeminal, caudal part",Cerebellum,1.18085558
+138,Left Intermediate reticular nucleus,Cerebellum,1.82950504
+139,Left Medullary reticular nucleus,Cerebellum,1.05303308
+140,Left Medial vestibular nucleus,Cerebellum,0.734526716
+141,Left Central lobule,Cerebellum,0.13950585
+142,Left Culmen,Cerebellum,0.377422101
+143,Left Folium-tuber vermis (VII),Cerebellum,0.00361989849
+144,Left Ansiform lobule,Cerebellum,0.119927398
+145,Left Paramedian lobule,Cerebellum,0.0329727147
+146,Left Paraflocculus,Cerebellum,0.0964862245
+147,Left Interposed nucleus,Cerebellum,1.74791942

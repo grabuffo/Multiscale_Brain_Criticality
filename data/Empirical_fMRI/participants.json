@@ -1,0 +1,130 @@
+{
+  "dataset": {
+    "Description": "acronym for the dataset",
+    "Levels": {
+      "AD1": "cross-sectional study of ArcA[beta] transgenic model of Alzheimer's disease",
+      "AD2": "single time point study of ArcA[beta], PSAPP, E22[delta]A[beta] transgenic model of Alzheimer's disease",
+      "AD3": "two time points longitudinal study of 3xTgAD transgenic model of Alzheimer's disease",
+      "aes1": "mice anesthestized with different protocols",
+      "aes2": "mice anesthestized with different protocols and awake condition",
+      "CSD1": "mice undergoing the chronic social defeat paradigm and control condition"
+    }
+  },
+  "ID": {
+    "Description": "scan ID corresponding to naming in data/ diagnostic/ motion/ and timeseries/ folders"
+  },
+  "subject": {
+    "Description": "subject name as listed in the original dataset"
+  },
+  "session": {
+    "Description": "imaging session as listed in the original dataset"
+  },
+  "gender": {
+    "Description": "animal gender",
+    "Levels": {
+      "F": "female",
+      "M": "male"
+    }
+  },
+  "age": {
+    "Description": "age in months at the time of the acquisition"
+  },
+  "genotype": {
+    "Description": "animal genotype",
+    "Levels": {
+      "wild-type": "control animals",
+      "E22DAB": "E22[delta]A[beta] mice carrying the Osaka and Sweedish mutations in the hAPP gene",
+      "PSAPP": "PSAPP[delta]E9 mice carrying the Sweedish mutations in the hAPP gene and the [delta]E9 mutation in the PS1 gene",
+      "ArcAbeta": "ArcA[beta] mice carrying the Arctic and the Sweedish mutations in the hAPP gene",
+      "3xTG": "3xTgAD mice carrying the Sweedish mutation in the hAPP gene, the M146V mutation in the PS1 gene, and the P301L mutation in the MAPT gene"
+    }
+  },
+"strain": {
+    "Description": "the animal background strain"
+  },
+  "condition": {
+    "Description": "experimental conditions",
+    "Levels": {
+      "3xTG_ctl": "control animals for 3xTG_TG",
+      "3xTG_TG": "3xTgAD mice",
+      "ArcAbeta_ctl": "control animals for ArcAbeta_TG mice",
+      "ArcAbeta_TG": "ArcA[beta] mice ",
+      "E22DAB_ctl": "control animals for E22DAB_TG",
+      "E22DAB_TG": "E22[delta]A[beta] mice",
+      "PSAPP_ctl": "control animals for PSAPP_TG",
+      "PSAPP_TG": "PSAPP mice",
+      "CPS_ctl": "control animals for the CPS_exp",
+      "CPS_exp": "animals undergoing the chronic social defeat paradigm",
+      "awake": "mice imaged in awake condition following aclimatization without head-fixation",
+      "iso1": "mice imaged under 1% isoflurane maintenance",
+      "iso1.5": "mice imaged under 1.5% isoflurane maintenance",
+      "med0.05": "mice imaged under 0.05mg/kg medetomidine bolus",
+      "med0.1": "mice imaged under 0.1mg/kg medetomidine bolus",
+      "mediso": "mice imaged under 0.5% isoflurane and 0.05mg/kg medetomidine",
+      "pro30": "mice imaged under propofol 30mg/kg",
+      "ure1.5": "mice imaged under urethane 1.5mg/kg"
+    }
+  },
+  "mediso_ctl": {
+    "Description": "animal to be considered as control animals under the standard mediso anesthesia protocol",
+    "Levels": {
+      "no": "experimental animals",
+      "yes": "control animals"
+    }
+  },
+  "Field": {
+    "Description": "MRI field strength"
+  },
+  "Coil": {
+    "Description": "MRI reciever coil is cryoprobe phased-array reciever-only coil"
+  },
+  "sequence": {
+    "Description": "MRI sequence. Single-echo Gradient-echo Echo Plannar Imaging"
+  },
+  "TR": {
+    "Description": "Repetition time in seconds"
+  },
+  "TE": {
+    "Description": "Echo time in miliseconds"
+  },
+  "FA": {
+    "Description": "Flip angle"
+  },
+  "volume": {
+    "Description": "number of volumes acquired"
+  },
+  "year": {
+    "Description": "year of acquisition"
+  },
+  "anestheisa": {
+    "Description": "anesthesia conditions",
+    "Levels": {
+      "awake": "mice imaged in awake condition following aclimatization without head-fixation",
+      "iso1": "mice imaged under 1% isoflurane maintenance",
+      "iso1.5": "mice imaged under 1.5% isoflurane maintenance",
+      "med0.05": "mice imaged under 0.05mg/kg medetomidine bolus",
+      "med0.1": "mice imaged under 0.1mg/kg medetomidine bolus",
+      "mediso": "mice imaged under 0.5% isoflurane and 0.05mg/kg medetomidine",
+      "pro30": "mice imaged under propofol 30mg/kg",
+      "ure1.5": "mice imaged under urethane 1.5mg/kg"
+    }
+  },
+  "ventilation": {
+    "Description": "mechanical ventilation"
+  },
+  "dataset_ref": {
+    "Description": "dataset URL link"
+  },
+  "dataset_DOI": {
+    "Description": "dataset DOI"
+  },
+  "publication_PMID": {
+    "Description": "reference publication Pubmed ID for the corresponding dataset"
+  },
+  "publication_DOI": {
+    "Description": "reference publication DOI for the corresponding dataset"
+  },
+  "diagnostic": {
+    "Description": "passed quality assurance test"
+  }
+}

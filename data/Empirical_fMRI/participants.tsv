@@ -1,0 +1,565 @@
+dataset	ID	subject	session	run	gender	age	genotype	strain	condition	mediso_ctl	Field	Coil	sequence	TR	TE	FA	volume	year	anesthesia	ventilation	dataset_ref	dataset_DOI	publication_PMID	publication_DOI	diagnostic
+AD1	1	1282	a	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297104	10.1523/JNEUROSCI.4762-13.2013	pass
+AD1	2	1282	c	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297104	10.1523/JNEUROSCI.4762-13.2014	pass
+AD1	3	1283	c	1	F	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297108	10.1523/JNEUROSCI.4762-13.2018	pass
+AD1	4	1284	c	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297112	10.1523/JNEUROSCI.4762-13.2022	pass
+AD1	5	1284	d	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297113	10.1523/JNEUROSCI.4762-13.2023	pass
+AD1	6	1284	e	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297114	10.1523/JNEUROSCI.4762-13.2024	pass
+AD1	7	1285	b	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297115	10.1523/JNEUROSCI.4762-13.2025	pass
+AD1	8	1285	c	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297116	10.1523/JNEUROSCI.4762-13.2026	pass
+AD1	9	1285	d	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297117	10.1523/JNEUROSCI.4762-13.2027	pass
+AD1	10	1285	e	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297118	10.1523/JNEUROSCI.4762-13.2028	pass
+AD1	11	1286	c	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297120	10.1523/JNEUROSCI.4762-13.2030	pass
+AD1	12	1286	d	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297121	10.1523/JNEUROSCI.4762-13.2031	pass
+AD1	13	1286	e	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297122	10.1523/JNEUROSCI.4762-13.2032	pass
+AD1	14	1287	a	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297123	10.1523/JNEUROSCI.4762-13.2033	pass
+AD1	15	1287	c	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297124	10.1523/JNEUROSCI.4762-13.2034	pass
+AD1	16	1287	e	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297126	10.1523/JNEUROSCI.4762-13.2036	pass
+AD1	17	1288	b	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297128	10.1523/JNEUROSCI.4762-13.2038	pass
+AD1	18	1288	e	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297130	10.1523/JNEUROSCI.4762-13.2040	pass
+AD1	19	1289	c	1	M	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297132	10.1523/JNEUROSCI.4762-13.2042	pass
+AD1	20	1289	d	1	M	2	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297133	10.1523/JNEUROSCI.4762-13.2043	pass
+AD1	21	1290	b	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297135	10.1523/JNEUROSCI.4762-13.2045	pass
+AD1	22	1290	d	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297137	10.1523/JNEUROSCI.4762-13.2047	pass
+AD1	23	1290	e	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297138	10.1523/JNEUROSCI.4762-13.2048	pass
+AD1	24	1291	b	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297139	10.1523/JNEUROSCI.4762-13.2049	pass
+AD1	25	1291	c	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297140	10.1523/JNEUROSCI.4762-13.2050	pass
+AD1	26	1291	e	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297142	10.1523/JNEUROSCI.4762-13.2052	pass
+AD1	27	1292	b	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297143	10.1523/JNEUROSCI.4762-13.2053	pass
+AD1	28	1292	c	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297144	10.1523/JNEUROSCI.4762-13.2054	pass
+AD1	29	1292	d	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297145	10.1523/JNEUROSCI.4762-13.2055	pass
+AD1	30	1292	e	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297146	10.1523/JNEUROSCI.4762-13.2056	pass
+AD1	31	1293	a	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297147	10.1523/JNEUROSCI.4762-13.2057	pass
+AD1	32	1293	c	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297148	10.1523/JNEUROSCI.4762-13.2058	pass
+AD1	33	1293	e	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297150	10.1523/JNEUROSCI.4762-13.2060	pass
+AD1	34	1294	c	1	M	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297152	10.1523/JNEUROSCI.4762-13.2062	pass
+AD1	35	1295	b	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297155	10.1523/JNEUROSCI.4762-13.2065	pass
+AD1	36	1296	b	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297159	10.1523/JNEUROSCI.4762-13.2069	pass
+AD1	37	1296	c	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297160	10.1523/JNEUROSCI.4762-13.2070	pass
+AD1	38	1296	d	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297161	10.1523/JNEUROSCI.4762-13.2071	pass
+AD1	39	1296	e	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297162	10.1523/JNEUROSCI.4762-13.2072	pass
+AD1	40	1297	b	1	F	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297163	10.1523/JNEUROSCI.4762-13.2073	pass
+AD1	41	1297	c	1	F	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297164	10.1523/JNEUROSCI.4762-13.2074	pass
+AD1	42	1297	d	1	F	2	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297165	10.1523/JNEUROSCI.4762-13.2075	pass
+AD1	43	1297	e	1	F	2	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297166	10.1523/JNEUROSCI.4762-13.2076	pass
+AD1	44	1298	a	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297167	10.1523/JNEUROSCI.4762-13.2077	pass
+AD1	45	1298	c	1	F	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297168	10.1523/JNEUROSCI.4762-13.2078	pass
+AD1	46	1298	d	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297169	10.1523/JNEUROSCI.4762-13.2079	pass
+AD1	47	1298	e	1	F	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297170	10.1523/JNEUROSCI.4762-13.2080	pass
+AD1	48	1299	a	1	M	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297171	10.1523/JNEUROSCI.4762-13.2081	pass
+AD1	49	1299	c	1	M	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297172	10.1523/JNEUROSCI.4762-13.2082	pass
+AD1	50	1299	d	1	M	2	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297173	10.1523/JNEUROSCI.4762-13.2083	pass
+AD1	51	1299	e	1	M	2	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297174	10.1523/JNEUROSCI.4762-13.2084	pass
+AD1	52	1300	b	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297175	10.1523/JNEUROSCI.4762-13.2085	pass
+AD1	53	1300	c	1	M	1	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297176	10.1523/JNEUROSCI.4762-13.2086	pass
+AD1	54	1300	d	1	M	2	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297177	10.1523/JNEUROSCI.4762-13.2087	pass
+AD1	55	1301	b	1	M	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297179	10.1523/JNEUROSCI.4762-13.2089	pass
+AD1	56	1301	c	1	M	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297180	10.1523/JNEUROSCI.4762-13.2090	pass
+AD1	57	1302	a	1	M	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297183	10.1523/JNEUROSCI.4762-13.2093	pass
+AD1	58	1302	c	1	M	1	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297184	10.1523/JNEUROSCI.4762-13.2094	pass
+AD1	59	1302	e	1	M	2	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297186	10.1523/JNEUROSCI.4762-13.2096	pass
+AD1	60	272148	a	1	F	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297187	10.1523/JNEUROSCI.4762-13.2097	pass
+AD1	61	272148	b	1	F	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297188	10.1523/JNEUROSCI.4762-13.2098	pass
+AD1	62	272150	b	1	F	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297193	10.1523/JNEUROSCI.4762-13.2103	pass
+AD1	63	272150	d	1	F	21	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297194	10.1523/JNEUROSCI.4762-13.2104	pass
+AD1	64	272151	a	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297195	10.1523/JNEUROSCI.4762-13.2105	pass
+AD1	65	272151	b	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297196	10.1523/JNEUROSCI.4762-13.2106	pass
+AD1	66	272151	e	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297197	10.1523/JNEUROSCI.4762-13.2107	pass
+AD1	67	272151	f	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297198	10.1523/JNEUROSCI.4762-13.2108	pass
+AD1	68	272152	a	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297199	10.1523/JNEUROSCI.4762-13.2109	pass
+AD1	69	272152	e	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297202	10.1523/JNEUROSCI.4762-13.2112	pass
+AD1	70	272153	a	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297203	10.1523/JNEUROSCI.4762-13.2113	pass
+AD1	71	272153	b	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297204	10.1523/JNEUROSCI.4762-13.2114	pass
+AD1	72	272153	d	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297205	10.1523/JNEUROSCI.4762-13.2115	pass
+AD1	73	272153	e	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297206	10.1523/JNEUROSCI.4762-13.2116	pass
+AD1	74	272154	b	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297208	10.1523/JNEUROSCI.4762-13.2118	pass
+AD1	75	272154	d	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297209	10.1523/JNEUROSCI.4762-13.2119	pass
+AD1	76	272154	e	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297210	10.1523/JNEUROSCI.4762-13.2120	pass
+AD1	77	272155	a	1	F	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297211	10.1523/JNEUROSCI.4762-13.2121	pass
+AD1	78	272156	a	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297215	10.1523/JNEUROSCI.4762-13.2125	pass
+AD1	79	272156	b	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297216	10.1523/JNEUROSCI.4762-13.2126	pass
+AD1	80	272156	d	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297217	10.1523/JNEUROSCI.4762-13.2127	pass
+AD1	81	272156	e	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297218	10.1523/JNEUROSCI.4762-13.2128	pass
+AD1	82	272157	b	1	M	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297220	10.1523/JNEUROSCI.4762-13.2130	pass
+AD1	83	272157	d	1	M	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297221	10.1523/JNEUROSCI.4762-13.2131	pass
+AD1	84	272157	e	1	M	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297222	10.1523/JNEUROSCI.4762-13.2132	pass
+AD1	85	272158	a	1	M	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297223	10.1523/JNEUROSCI.4762-13.2133	pass
+AD1	86	272158	b	1	M	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297224	10.1523/JNEUROSCI.4762-13.2134	pass
+AD1	87	272158	d	1	M	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297225	10.1523/JNEUROSCI.4762-13.2135	pass
+AD1	88	272159	a	1	M	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297227	10.1523/JNEUROSCI.4762-13.2137	pass
+AD1	89	272159	b	1	M	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297228	10.1523/JNEUROSCI.4762-13.2138	pass
+AD1	90	272159	d	1	M	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297229	10.1523/JNEUROSCI.4762-13.2139	pass
+AD1	91	272159	e	1	M	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297230	10.1523/JNEUROSCI.4762-13.2140	pass
+AD1	92	272160	b	1	F	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297232	10.1523/JNEUROSCI.4762-13.2142	pass
+AD1	93	272160	d	1	F	21	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297233	10.1523/JNEUROSCI.4762-13.2143	pass
+AD1	94	272161	b	1	M	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297234	10.1523/JNEUROSCI.4762-13.2144	pass
+AD1	95	272161	c	1	M	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297235	10.1523/JNEUROSCI.4762-13.2145	pass
+AD1	96	272161	d	1	M	21	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297236	10.1523/JNEUROSCI.4762-13.2146	pass
+AD1	97	272163	a	1	M	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297237	10.1523/JNEUROSCI.4762-13.2147	pass
+AD1	98	272163	b	1	M	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297238	10.1523/JNEUROSCI.4762-13.2148	pass
+AD1	99	272163	d	1	M	21	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297239	10.1523/JNEUROSCI.4762-13.2149	pass
+AD1	100	272164	a	1	M	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297240	10.1523/JNEUROSCI.4762-13.2150	pass
+AD1	101	272164	c	1	M	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297241	10.1523/JNEUROSCI.4762-13.2151	pass
+AD1	102	272164	d	1	M	21	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297242	10.1523/JNEUROSCI.4762-13.2152	pass
+AD1	103	272165	a	1	M	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297243	10.1523/JNEUROSCI.4762-13.2153	pass
+AD1	104	272166	a	1	F	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297246	10.1523/JNEUROSCI.4762-13.2156	pass
+AD1	105	272166	b	1	F	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297247	10.1523/JNEUROSCI.4762-13.2157	pass
+AD1	106	272168	a	1	F	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297252	10.1523/JNEUROSCI.4762-13.2162	pass
+AD1	107	272169	a	1	F	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297254	10.1523/JNEUROSCI.4762-13.2164	pass
+AD1	108	272169	d	1	F	21	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297256	10.1523/JNEUROSCI.4762-13.2166	pass
+AD1	109	272170	a	1	F	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297257	10.1523/JNEUROSCI.4762-13.2167	pass
+AD1	110	272170	d	1	F	21	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297259	10.1523/JNEUROSCI.4762-13.2169	pass
+AD1	111	272171	a	1	F	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297260	10.1523/JNEUROSCI.4762-13.2170	pass
+AD1	112	272171	d	1	F	21	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297262	10.1523/JNEUROSCI.4762-13.2172	pass
+AD1	113	272172	a	1	F	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297263	10.1523/JNEUROSCI.4762-13.2173	pass
+AD1	114	272173	b	1	F	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297268	10.1523/JNEUROSCI.4762-13.2178	pass
+AD1	115	272173	d	1	F	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297269	10.1523/JNEUROSCI.4762-13.2179	pass
+AD1	116	272173	e	1	F	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297270	10.1523/JNEUROSCI.4762-13.2180	pass
+AD1	117	272174	a	1	F	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297271	10.1523/JNEUROSCI.4762-13.2181	pass
+AD1	118	272174	b	1	F	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297272	10.1523/JNEUROSCI.4762-13.2182	pass
+AD1	119	272174	d	1	F	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297273	10.1523/JNEUROSCI.4762-13.2183	pass
+AD1	120	272175	a	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297275	10.1523/JNEUROSCI.4762-13.2185	pass
+AD1	121	272175	b	1	F	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297276	10.1523/JNEUROSCI.4762-13.2186	pass
+AD1	122	272175	d	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297277	10.1523/JNEUROSCI.4762-13.2187	pass
+AD1	123	272175	e	1	F	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297278	10.1523/JNEUROSCI.4762-13.2188	pass
+AD1	124	272176	b	1	F	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297280	10.1523/JNEUROSCI.4762-13.2190	pass
+AD1	125	272176	e	1	F	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297282	10.1523/JNEUROSCI.4762-13.2192	pass
+AD1	126	272177	a	1	F	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297283	10.1523/JNEUROSCI.4762-13.2193	pass
+AD1	127	272177	c	1	F	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297284	10.1523/JNEUROSCI.4762-13.2194	pass
+AD1	128	272177	e	1	F	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297286	10.1523/JNEUROSCI.4762-13.2196	pass
+AD1	129	272178	a	1	M	8	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297287	10.1523/JNEUROSCI.4762-13.2197	pass
+AD1	130	272178	d	1	M	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297289	10.1523/JNEUROSCI.4762-13.2199	pass
+AD1	131	272178	e	1	M	11	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297290	10.1523/JNEUROSCI.4762-13.2200	pass
+AD1	132	272179	a	1	M	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297291	10.1523/JNEUROSCI.4762-13.2201	pass
+AD1	133	272179	d	1	M	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297293	10.1523/JNEUROSCI.4762-13.2203	pass
+AD1	134	272179	e	1	M	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297294	10.1523/JNEUROSCI.4762-13.2204	pass
+AD1	135	272180	a	1	M	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297295	10.1523/JNEUROSCI.4762-13.2205	pass
+AD1	136	272180	b	1	M	8	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297296	10.1523/JNEUROSCI.4762-13.2206	pass
+AD1	137	272180	d	1	M	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297297	10.1523/JNEUROSCI.4762-13.2207	pass
+AD1	138	272180	e	1	M	11	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297298	10.1523/JNEUROSCI.4762-13.2208	pass
+AD1	139	272182	a	1	M	19	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297302	10.1523/JNEUROSCI.4762-13.2212	pass
+AD1	140	272182	d	1	M	21	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297304	10.1523/JNEUROSCI.4762-13.2214	pass
+AD1	141	272183	c	1	M	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297306	10.1523/JNEUROSCI.4762-13.2216	pass
+AD1	142	272183	d	1	M	21	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297307	10.1523/JNEUROSCI.4762-13.2217	pass
+AD1	143	272184	d	1	F	21	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297310	10.1523/JNEUROSCI.4762-13.2220	pass
+AD1	144	272185	a	1	F	19	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297311	10.1523/JNEUROSCI.4762-13.2221	pass
+AD1	145	272591	a	1	M	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297314	10.1523/JNEUROSCI.4762-13.2224	pass
+AD1	146	272591	b	1	M	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297315	10.1523/JNEUROSCI.4762-13.2225	pass
+AD1	147	272592	a	1	M	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297316	10.1523/JNEUROSCI.4762-13.2226	pass
+AD1	148	272593	b	1	M	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297319	10.1523/JNEUROSCI.4762-13.2229	pass
+AD1	149	272594	a	1	M	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297320	10.1523/JNEUROSCI.4762-13.2230	pass
+AD1	150	272595	a	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297322	10.1523/JNEUROSCI.4762-13.2232	pass
+AD1	151	272595	b	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297323	10.1523/JNEUROSCI.4762-13.2233	pass
+AD1	152	272596	a	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297324	10.1523/JNEUROSCI.4762-13.2234	pass
+AD1	153	272596	b	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297325	10.1523/JNEUROSCI.4762-13.2235	pass
+AD1	154	272597	a	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297326	10.1523/JNEUROSCI.4762-13.2236	pass
+AD1	155	272597	b	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297327	10.1523/JNEUROSCI.4762-13.2237	pass
+AD1	156	272598	a	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297328	10.1523/JNEUROSCI.4762-13.2238	pass
+AD1	157	272598	b	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297329	10.1523/JNEUROSCI.4762-13.2239	pass
+AD1	158	272599	b	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297331	10.1523/JNEUROSCI.4762-13.2241	pass
+AD1	159	272600	a	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297332	10.1523/JNEUROSCI.4762-13.2242	pass
+AD1	160	272601	a	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297334	10.1523/JNEUROSCI.4762-13.2244	pass
+AD1	161	272601	b	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297335	10.1523/JNEUROSCI.4762-13.2245	pass
+AD1	162	272602	a	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297336	10.1523/JNEUROSCI.4762-13.2246	pass
+AD1	163	272602	b	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297337	10.1523/JNEUROSCI.4762-13.2247	pass
+AD1	164	272603	a	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297338	10.1523/JNEUROSCI.4762-13.2248	pass
+AD1	165	272603	b	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297339	10.1523/JNEUROSCI.4762-13.2249	pass
+AD1	166	272604	a	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297340	10.1523/JNEUROSCI.4762-13.2250	pass
+AD1	167	272605	a	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297342	10.1523/JNEUROSCI.4762-13.2252	pass
+AD1	168	272606	b	1	F	5	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297345	10.1523/JNEUROSCI.4762-13.2255	pass
+AD1	169	272607	a	1	F	5	wild-type	B6	ArcAbeta_ctl	no	9.4	CryoPA	SE-GE-EPI	1500	9.3	50	500	2014	iso1.5	no	https://central.xnat.org/data/projects/fMRI_AD_mouse	NA	25297346	10.1523/JNEUROSCI.4762-13.2256	pass
+AD2	170	115	1	1	F	13	PSAPP	B6	PSAPP_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	171	117	1	1	F	13	PSAPP	B6	PSAPP_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	172	118	1	1	F	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	173	119	1	1	F	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	174	122	1	1	M	13	PSAPP	B6	PSAPP_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	175	123	1	1	M	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	176	124	1	1	M	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	177	125	1	1	M	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	178	126	1	1	M	13	PSAPP	B6	PSAPP_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	179	127	1	1	F	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	180	128	1	1	F	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	181	129	1	1	F	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	182	130	1	1	F	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	183	131	1	1	F	13	PSAPP	B6	PSAPP_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	184	132	1	1	M	13	wild-type	B6	PSAPP_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	185	133	1	1	M	13	PSAPP	B6	PSAPP_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	186	134	1	1	M	13	PSAPP	B6	PSAPP_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	187	135	1	1	M	13	PSAPP	B6	PSAPP_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	188	215	1	1	F	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	189	216	1	1	F	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	190	219	1	1	M	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	191	221	1	1	F	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	192	223	1	1	F	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	193	224	1	1	M	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	194	225	1	1	M	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	195	226	1	1	M	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	196	228	1	1	M	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	197	229	1	1	M	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	198	233	1	1	F	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	199	281	1	1	F	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	200	282	1	1	M	13	wild-type	B6	ArcAbeta_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	201	283	1	1	F	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	202	284	1	1	F	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	203	285	1	1	M	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	204	286	1	1	F	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	205	287	1	1	F	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	206	288	1	1	F	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	207	300	1	1	M	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	208	301	1	1	F	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	209	302	1	1	F	13	ArcAbeta	B6	ArcAbeta_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	210	52	1	1	M	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	211	53	1	1	F	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	212	54	1	1	F	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	213	56	1	1	M	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	214	59	1	1	M	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	215	60	1	1	F	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	216	61	1	1	F	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	217	62	1	1	F	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	218	63	1	1	F	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	219	64	1	1	F	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	220	66	1	1	M	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	221	67	1	1	M	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	222	68	1	1	M	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	223	69	1	1	F	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	224	70	1	1	F	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	225	71	1	1	M	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	226	72	1	1	M	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	227	73	1	1	F	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	228	76	1	1	M	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	229	77	1	1	M	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	230	78	1	1	F	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	231	79	1	1	F	13	E22DAB	B6	E22DAB_TG	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD2	232	80	1	1	M	13	wild-type	B6	E22DAB_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/fMRI_AD_mouse2	NA	27033685	10.1016/j.neuroimage.2016.03.042.	pass
+AD3	233	c1NT	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	234	c1NT	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	235	c2NT	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	236	c2NT	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	237	c2R1	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	238	c4NT	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	239	c4NT	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	240	c5NT	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	241	c5NT	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	242	c6NT	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	243	c6NT	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	244	c7NT	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	245	c7NT	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	246	c8NT	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	247	c8NT	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	248	c9NT	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	249	c11L	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	250	c11L	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	251	c21L	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	252	c31L	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	253	c31R	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	254	c31R	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	255	c32L	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	256	c32L	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	257	c32R	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	258	c32R	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	259	c41L	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	260	c41L	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	261	c41R	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	262	c41R	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	263	c42L	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	264	c42L	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	265	c42R	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	266	c42R	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	267	c51L	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	268	c51L	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	269	c61L	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	270	c61L	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	271	c61R	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	272	c61R	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	273	c62L	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	274	c71L	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	275	c71L	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	276	c71R	1	1	M	3	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	277	c71R	2	1	M	6	wild-type	B6	3xTG_ctl	yes	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	278	c81L	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	279	c81L	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	280	c81R	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	281	c81R	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	282	c91L	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	283	c91L	2	1	M	6	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+AD3	284	c91R	1	1	M	3	3xTG	B6	3xTG_TG	no	11.75	CryoPA	SE-GE-EPI	1000	15	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001890	10.18112/openneuro.ds001890.v1.0.1	NA	10.19185/matters.201905000001	pass
+aes1	285	iso1c3perc	1	1	F	3	wild-type	B6	iso1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	286	iso1c3perc1	1	1	F	3	wild-type	B6	iso1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	287	iso1c5perc	1	1	F	3	wild-type	B6	iso1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	288	iso2238	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	289	iso2239	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	290	iso2250	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	291	iso2270	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	292	iso2273	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	293	iso2274	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	294	iso2870_1c5perc	1	1	F	3	wild-type	B6	iso1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	295	iso3294	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	296	isoCBV2269	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	297	isoCBV2274	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	298	isoCBV2799	1	1	F	3	wild-type	B6	iso1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	iso1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	299	med2241	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	300	med2247	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	301	med2251	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	302	med2256	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	303	med2257	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	304	med2259	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	305	medCBV2239	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	306	medCBV2240	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	307	medCBV2800	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	308	medCBV2803	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	309	medCBV2933	1	1	F	3	wild-type	B6	med0.1	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.1	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	310	medHalfDose1	1	1	F	3	wild-type	B6	med0.05	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.05	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	311	medHalfDose2	1	1	F	3	wild-type	B6	med0.05	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.05	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	312	medHalfDose3	1	1	F	3	wild-type	B6	med0.05	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.05	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	313	medHRCBFHalfDose	1	1	F	3	wild-type	B6	med0.05	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.05	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	314	medHRCBFHalfDose2	1	1	F	3	wild-type	B6	med0.05	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	med0.05	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	315	mi272871	1	1	F	3	wild-type	B6	mediso	yes	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	mediso	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	316	mi273300	1	1	F	3	wild-type	B6	mediso	yes	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	mediso	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	317	mi273457	1	1	F	3	wild-type	B6	mediso	yes	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	mediso	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	318	mi273458	1	1	F	3	wild-type	B6	mediso	yes	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	mediso	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	319	mi273459	1	1	F	3	wild-type	B6	mediso	yes	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	mediso	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	320	mi273460	1	1	F	3	wild-type	B6	mediso	yes	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	mediso	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	321	mi273461	1	1	F	3	wild-type	B6	mediso	yes	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	mediso	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	322	pro2243	1	1	F	3	wild-type	B6	pro30	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	pro30	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	323	pro2244	1	1	F	3	wild-type	B6	pro30	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	pro30	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	324	pro2246	1	1	F	3	wild-type	B6	pro30	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	pro30	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	325	pro2255	1	1	F	3	wild-type	B6	pro30	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	pro30	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	326	pro50mgProKg	1	1	F	3	wild-type	B6	pro30	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	pro30	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	327	proCBV2250	1	1	F	3	wild-type	B6	pro30	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	pro30	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	328	proCBV2275	1	1	F	3	wild-type	B6	pro30	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	pro30	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	329	ure12gProKg1	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	330	ure12ProKg	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	331	ure2242	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	332	ure2248	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	333	ure2258	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	334	ure2260	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	335	ure2262	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	336	ure2265	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	337	ure2268	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	338	ure2271	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	339	ureCBV2241	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	340	ureCBV2246	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	341	ureCBV2272	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes1	342	ureCBV2863	1	1	F	3	wild-type	B6	ure1.5	no	9.4	CryoPA	SE-GE-EPI	1000	10	90	350	2014	ure1.5	yes	https://central.xnat.org/data/projects/fMRI_ane_mouse	NA	25175535	10.1016/j.neuroimage.2014.08.043	pass
+aes2	343	sub-jgrAesAWc1NT	1	1	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	344	sub-jgrAesISOc1NT	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	345	sub-jgrAesISOc11R	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	346	sub-jgrAesISOc11L	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	347	sub-jgrAesISOc12R	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	348	sub-jgrAesISOc11R1L	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	349	sub-jgrAesMEDISOc1NT	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	350	sub-jgrAesMEDISOc11R	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	351	sub-jgrAesMEDISOc11L	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	352	sub-jgrAesMEDISOc12R	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	353	sub-jgrAesMEDISOc11R1L	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	354	sub-jgrAesISOc11R1L	2	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	355	sub-jgrAesISOc11R	2	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	356	sub-jgrAesISOc12R	2	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	357	sub-jgrAesISOc1NT	2	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	358	sub-jgrAesMEDISOc11R1L	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	359	sub-jgrAesMEDISOc11R	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	360	sub-jgrAesMEDISOc12R	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	361	sub-jgrAesMEDISOc11L	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	362	sub-jgrAesMEDISOc1NT	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	363	sub-jgrAesISOc2NT	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	364	sub-jgrAesISOc21R	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	365	sub-jgrAesISOc21L	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	366	sub-jgrAesISOc22R	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	367	sub-jgrAesISOc21R1L	1	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	368	sub-jgrAesMEDISOc2NT	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	369	sub-jgrAesMEDISOc21R	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	370	sub-jgrAesMEDISOc21L	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	371	sub-jgrAesMEDISOc22r	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	372	sub-jgrAesMEDISOc21R1L	1	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	373	sub-jgrAesAWc21L	2	1	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	374	sub-jgrAesISOc21R1L	2	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	375	sub-jgrAesISOc21R	2	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	376	sub-jgrAesISOc2NT	2	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	377	sub-jgrAesISOc22R	2	1	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	378	sub-jgrAesMEDISOc22r	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	379	sub-jgrAesMEDISOc2NT	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	380	sub-jgrAesMEDISOc21R	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	381	sub-jgrAesMEDISOc21L	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	382	sub-jgrAesMEDISOc21R1L	2	1	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	383	sub-jgrAesAWc11R1L	1	2	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	384	sub-jgrAesAWc1NT	1	2	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	385	sub-jgrAesISOc1NT	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	386	sub-jgrAesISOc11R	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	387	sub-jgrAesISOc11L	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	388	sub-jgrAesISOc12R	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	389	sub-jgrAesISOc11R1L	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	390	sub-jgrAesMEDISOc1NT	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	391	sub-jgrAesMEDISOc11L	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	392	sub-jgrAesMEDISOc12R	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	393	sub-jgrAesMEDISOc11R1L	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	394	sub-jgrAesAWc1NT	2	2	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	395	sub-jgrAesAWc11L	2	2	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	396	sub-jgrAesISOc11R1L	2	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	397	sub-jgrAesISOc11R	2	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	398	sub-jgrAesISOc12R	2	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	399	sub-jgrAesISOc1NT	2	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	400	sub-jgrAesMEDISOc11R1L	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	401	sub-jgrAesMEDISOc11R	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	402	sub-jgrAesMEDISOc12R	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	403	sub-jgrAesMEDISOc11L	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	404	sub-jgrAesMEDISOc1NT	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	405	sub-jgrAesISOc2NT	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	406	sub-jgrAesISOc21R	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	407	sub-jgrAesISOc21L	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	408	sub-jgrAesISOc21R1L	1	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	409	sub-jgrAesMEDISOc2NT	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	410	sub-jgrAesMEDISOc21R	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	411	sub-jgrAesMEDISOc21L	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	412	sub-jgrAesMEDISOc22r	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	413	sub-jgrAesMEDISOc21R1L	1	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	414	sub-jgrAesAWc22R	2	2	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	415	sub-jgrAesISOc21R1L	2	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	416	sub-jgrAesISOc21R	2	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	417	sub-jgrAesISOc2NT	2	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	418	sub-jgrAesISOc22R	2	2	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	419	sub-jgrAesMEDISOc22r	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	420	sub-jgrAesMEDISOc2NT	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	421	sub-jgrAesMEDISOc21R	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	422	sub-jgrAesMEDISOc21L	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	423	sub-jgrAesMEDISOc21R1L	2	2	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	424	sub-jgrAesAWc11R1L	1	3	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	425	sub-jgrAesISOc1NT	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	426	sub-jgrAesISOc11R	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	427	sub-jgrAesISOc11L	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	428	sub-jgrAesISOc12R	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	429	sub-jgrAesISOc11R1L	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	430	sub-jgrAesMEDISOc1NT	1	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	431	sub-jgrAesMEDISOc11L	1	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	432	sub-jgrAesMEDISOc12R	1	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	433	sub-jgrAesMEDISOc11R1L	1	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	434	sub-jgrAesAWc1NT	2	3	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	435	sub-jgrAesISOc11R1L	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	436	sub-jgrAesISOc11R	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	437	sub-jgrAesISOc12R	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	438	sub-jgrAesISOc1NT	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	439	sub-jgrAesMEDISOc11R1L	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	440	sub-jgrAesMEDISOc11R	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	441	sub-jgrAesMEDISOc12R	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	442	sub-jgrAesMEDISOc11L	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	443	sub-jgrAesMEDISOc1NT	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	444	sub-jgrAesISOc2NT	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	445	sub-jgrAesISOc21R	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	446	sub-jgrAesISOc21L	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	447	sub-jgrAesISOc21R1L	1	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	448	sub-jgrAesMEDISOc2NT	1	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	449	sub-jgrAesMEDISOc21R	1	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	450	sub-jgrAesMEDISOc21L	1	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	451	sub-jgrAesMEDISOc22r	1	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	452	sub-jgrAesAWc21R1L	2	3	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	453	sub-jgrAesAWc21L	2	3	F	3	wild-type	B6	awake	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	awake	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	454	sub-jgrAesISOc21L	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	455	sub-jgrAesISOc21R1L	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	456	sub-jgrAesISOc21R	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	457	sub-jgrAesISOc2NT	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	458	sub-jgrAesISOc22R	2	3	F	3	wild-type	B6	iso1	no	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	iso1	no	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	459	sub-jgrAesMEDISOc22r	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	460	sub-jgrAesMEDISOc2NT	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	461	sub-jgrAesMEDISOc21R	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	462	sub-jgrAesMEDISOc21L	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+aes2	463	sub-jgrAesMEDISOc21R1L	2	3	F	3	wild-type	B6	mediso	yes	11.75	CryoPA	SE-GE-EPI	1000	11.7	50	600	2019	mediso	yes	https://openneuro.org/datasets/ds001653		NA	NA	pass
+CSD1	464	1366	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	465	1366	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	466	1367	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	467	1367	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	468	1368	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	469	1368	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	470	1369	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	471	1369	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	472	1371	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	473	1371	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	474	1372	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	475	1372	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	476	1373	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	477	1374	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	478	1374	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	479	1377	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	480	1377	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	481	1378	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	482	1378	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	483	1379	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	484	1379	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	485	1380	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	486	1380	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	487	1383	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	488	1383	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	489	1384	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	490	1384	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	491	1385	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	492	1385	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	493	1386	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	494	1387	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	495	1387	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	496	1402	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	497	1402	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	498	1403	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	499	1403	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	500	1404	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	501	1404	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	502	1405	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	503	1405	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	504	1406	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	505	1406	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	506	1407	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	507	1407	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	508	1410	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	509	1410	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	510	1411	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	511	1411	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	512	1412	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	513	1412	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	514	1413	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	515	1413	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	516	1414	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	517	1414	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	518	1415	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	519	1415	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	520	4384	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	521	4384	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	522	4385	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	523	4386	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	524	4386	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	525	4387	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	526	4387	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	527	4389	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	528	4389	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	529	4390	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	530	4390	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	531	4391	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	532	4391	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	533	4392	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	534	4392	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	535	4393	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	536	4393	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	537	4394	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	538	4394	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	539	4395	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	540	4395	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	541	4396	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	542	4396	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	543	4397	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	544	4397	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	545	4398	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	546	4398	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	547	4399	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	548	4399	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	549	4400	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	550	4401	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	551	4401	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	552	4402	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	553	4402	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	554	4405	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	555	4405	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	556	4406	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	557	4406	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	558	4407	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	559	4424	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	560	4424	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	561	4425	1	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	562	4425	2	1	M	3	wild-type	B6	CPS_ctl	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	563	4426	1	1	M	3	wild-type	B6	CPS_exp	yes	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass
+CSD1	564	4426	2	1	M	3	wild-type	B6	CPS_exp	no	9.4	CryoPA	SE-GE-EPI	1000	9.2	90	360	2016	mediso	yes	https://central.xnat.org/data/projects/CSD_MRI_MOUSE	NA	27520750	10.1016/j.neuroimage.2016.08.013	pass

@@ -1,0 +1,148 @@
+Right Frontal pole, cerebral cortex
+Right Primary motor area
+Right Primary somatosensory area, nose
+Right Primary somatosensory area, barrel field
+Right Primary somatosensory area, lower limb
+Right Primary somatosensory area, mouth
+Right Primary somatosensory area, upper limb
+Right Primary somatosensory area, trunk
+Right Supplemental somatosensory area
+Right Primary auditory area
+Right Anterolateral visual area
+Right Anteromedial visual area
+Right Lateral visual area
+Right Primary visual area
+Right posteromedial visual area
+Right Anterior cingulate area, dorsal part
+Right Anterior cingulate area, ventral part
+Right Infralimbic area
+Right Orbital area, lateral part
+Right Orbital area, medial part
+Right Agranular insular area, dorsal part
+Right Agranular insular area, posterior part
+Right Retrosplenial area, lateral agranular part
+Right Retrosplenial area, dorsal part
+Right Retrosplenial area, ventral part
+Right Temporal association areas
+Right Ectorhinal area
+Right Anterior olfactory nucleus
+Right Cortical amygdalar area, posterior part
+Right Postpiriform transition area
+Right Field CA1
+Right Field CA3
+Right Dentate gyrus
+Right Entorhinal area, lateral part
+Right Parasubiculum
+Right Subiculum
+Right Endopiriform nucleus, dorsal part
+Right Lateral amygdalar nucleus
+Right Basolateral amygdalar nucleus
+Right Basomedial amygdalar nucleus
+Right Caudoputamen
+Right Nucleus accumbens
+Right Lateral septal nucleus, rostral (rostroventral) part
+Right Substantia innominata
+Right Ventral anterior-lateral complex of the thalamus
+Right Ventral medial nucleus of the thalamus
+Right Medial geniculate complex
+Right Dorsal part of the lateral geniculate complex
+Right Lateral posterior nucleus of the thalamus
+Right Posterior complex of the thalamus
+Right Lateral dorsal nucleus of thalamus
+Right Mediodorsal nucleus of thalamus
+Right Reticular nucleus of the thalamus
+Right Anterior hypothalamic nucleus
+Right Lateral hypothalamic area
+Right Inferior colliculus
+Right Midbrain reticular nucleus
+Right Superior colliculus, motor related
+Right Anterior pretectal nucleus
+Right Principal sensory nucleus of the trigeminal
+Right Pontine reticular nucleus
+Right Ventral cochlear nucleus
+Right Nucleus of the solitary tract
+Right Spinal nucleus of the trigeminal, caudal part
+Right Intermediate reticular nucleus
+Right Medullary reticular nucleus
+Right Medial vestibular nucleus
+Right Central lobule
+Right Culmen
+Right Folium-tuber vermis (VII)
+Right Ansiform lobule
+Right Paramedian lobule
+Right Paraflocculus
+Right Interposed nucleus
+Left Frontal pole, cerebral cortex
+Left Primary motor area
+Left Primary somatosensory area, nose
+Left Primary somatosensory area, barrel field
+Left Primary somatosensory area, lower limb
+Left Primary somatosensory area, mouth
+Left Primary somatosensory area, upper limb
+Left Primary somatosensory area, trunk
+Left Supplemental somatosensory area
+Left Primary auditory area
+Left Anterolateral visual area
+Left Anteromedial visual area
+Left Lateral visual area
+Left Primary visual area
+Left posteromedial visual area
+Left Anterior cingulate area, dorsal part
+Left Anterior cingulate area, ventral part
+Left Infralimbic area
+Left Orbital area, lateral part
+Left Orbital area, medial part
+Left Agranular insular area, dorsal part
+Left Agranular insular area, posterior part
+Left Retrosplenial area, lateral agranular part
+Left Retrosplenial area, dorsal part
+Left Retrosplenial area, ventral part
+Left Temporal association areas
+Left Ectorhinal area
+Left Anterior olfactory nucleus
+Left Cortical amygdalar area, posterior part
+Left Postpiriform transition area
+Left Field CA1
+Left Field CA3
+Left Dentate gyrus
+Left Entorhinal area, lateral part
+Left Parasubiculum
+Left Subiculum
+Left Endopiriform nucleus, dorsal part
+Left Lateral amygdalar nucleus
+Left Basolateral amygdalar nucleus
+Left Basomedial amygdalar nucleus
+Left Caudoputamen
+Left Nucleus accumbens
+Left Lateral septal nucleus, rostral (rostroventral) part
+Left Substantia innominata
+Left Ventral anterior-lateral complex of the thalamus
+Left Ventral medial nucleus of the thalamus
+Left Medial geniculate complex
+Left Dorsal part of the lateral geniculate complex
+Left Lateral posterior nucleus of the thalamus
+Left Posterior complex of the thalamus
+Left Lateral dorsal nucleus of thalamus
+Left Mediodorsal nucleus of thalamus
+Left Reticular nucleus of the thalamus
+Left Anterior hypothalamic nucleus
+Left Lateral hypothalamic area
+Left Inferior colliculus
+Left Midbrain reticular nucleus
+Left Superior colliculus, motor related
+Left Anterior pretectal nucleus
+Left Principal sensory nucleus of the trigeminal
+Left Pontine reticular nucleus
+Left Ventral cochlear nucleus
+Left Nucleus of the solitary tract
+Left Spinal nucleus of the trigeminal, caudal part
+Left Intermediate reticular nucleus
+Left Medullary reticular nucleus
+Left Medial vestibular nucleus
+Left Central lobule
+Left Culmen
+Left Folium-tuber vermis (VII)
+Left Ansiform lobule
+Left Paramedian lobule
+Left Paraflocculus
+Left Interposed nucleus

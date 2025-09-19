@@ -1,0 +1,26 @@
+{
+  "id": {
+    "Description": "The region-of-interest ID and its column order in the extracted timeserie files"
+  },
+  "Allen.id": {
+    "Description": "The Allen Institute for Brain Science region-of-interest ID. See: http://api.brain-map.org/api/v2/structure_graph_download/1.json"
+  },
+  "parent.id": {
+    "Description": "The Allen Institute for Brain Science region-of-interest parent ID, i.e. the root region-of-interest to this branch"
+  },
+  "acronym": {
+    "Description": "The Allen Institute for Brain Science region-of-interest acronym. See: http://atlas.brain-map.org/atlas?atlas=1"
+  },
+  "name": {
+    "Description": "The Allen Institute for Brain Science region-of-interest full name. See: http://atlas.brain-map.org/atlas?atlas=1"
+  },
+  "hex": {
+    "Description": "The Allen Institute for Brain Science region-of-interest colour code in HEX format"
+  },
+  "level": {
+    "Description": "The Allen Institute for Brain Science region-of-interest branching level, i.e. the number of branches between the region-of-interest and the main root"
+  },
+"n.vox": {
+    "Description": "The number of voxels included in the region-of-interest in an atlas resampled at a 0.2 x 0.2 x 0.2 mm^3 resolution"
+  }
+}

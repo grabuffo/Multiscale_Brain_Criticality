@@ -1,0 +1,605 @@
+id	Allen.id	parent.id	acronym	name	hex	level	hemisphere	n.vox
+1	184	315	FRP	Frontal pole, cerebral cortex	268F45	8	right	58
+2	985	500	MOp	Primary motor area	1F9D5A	8	right	719
+3	993	500	MOs	Secondary motor area	1F9D5A	8	right	802
+4	353	322	SSp-n	Primary somatosensory area, nose	188064	9	right	193
+5	329	322	SSp-bfd	Primary somatosensory area, barrel field	188064	9	right	377
+6	337	322	SSp-ll	Primary somatosensory area, lower limb	188064	9	right	142
+7	345	322	SSp-m	Primary somatosensory area, mouth	188064	9	right	387
+8	369	322	SSp-ul	Primary somatosensory area, upper limb	188064	9	right	225
+9	361	322	SSp-tr	Primary somatosensory area, trunk	188064	9	right	93
+10	182305689	322	SSp-un	Primary somatosensory area, unassigned	188064	9	right	74
+11	378	453	SSs	Supplemental somatosensory area	188064	8	right	568
+12	1057	315	GU	Gustatory areas	009C75	6	right	110
+13	677	315	VISC	Visceral area	11AD83	8	right	146
+14	1011	247	AUDd	Dorsal auditory area	19399	8	right	76
+15	1002	247	AUDp	Primary auditory area	19399	8	right	134
+16	1027	247	AUDpo	Posterior auditory area	19399	8	right	39
+17	1018	247	AUDv	Ventral auditory area	19399	8	right	111
+18	669	315	VIS	Visual areas	08858C	6	right	0
+19	402	669	VISal	Anterolateral visual area	08858C	8	right	49
+20	394	669	VISam	Anteromedial visual area	08858C	8	right	49
+21	409	669	VISl	Lateral visual area	08858C	8	right	72
+22	385	669	VISp	Primary visual area	08858C	8	right	438
+23	425	669	VISpl	Posterolateral visual area	08858C	8	right	55
+24	533	669	VISpm	posteromedial visual area	08858C	8	right	66
+25	312782574	669	VISli	Laterointermediate area	08858C	8	right	29
+26	312782628	669	VISpor	Postrhinal area	08858C	8	right	81
+27	31	315	ACA	Anterior cingulate area	40A666	8	right	302
+28	972	315	PL	Prelimbic area	2FA850	8	right	135
+29	44	315	ILA	Infralimbic area	59B363	8	right	46
+30	714	315	ORB	Orbital area	248A5E	8	right	361
+31	95	315	AI	Agranular insular area	219866	8	right	497
+32	254	315	RSP	Retrosplenial area	1AA698	8	right	612
+33	22	315	PTLp	Posterior parietal association areas	009FAC	6	right	0
+34	312782546	22	VISa	Anterior area	009FAC	8	right	89
+35	417	22	VISrl	Rostrolateral visual area	009FAC	8	right	64
+36	541	315	TEa	Temporal association areas	15B0B3	6	right	180
+37	922	315	PERI	Perirhinal area	0	8	right	46
+38	895	315	ECT	Ectorhinal area	0D9F91	8	right	114
+39	507	698	MOB	Main olfactory bulb	9AD2BD	8	right	1032
+40	151	698	AOB	Accessory olfactory bulb	9DF0D2	8	right	42
+41	159	698	AON	Anterior olfactory nucleus	54BF94	8	right	307
+42	589	698	TT	Taenia tecta	62D09F	8	right	78
+43	814	698	DP	Dorsal peduncular area	A4DAA4	8	right	30
+44	961	698	PIR	Piriform area	6ACBBA	8	right	718
+45	619	698	NLOT	Nucleus of the lateral olfactory tract	95E4C8	8	right	19
+46	639	631	COAa	Cortical amygdalar area, anterior part	61E7B7	9	right	44
+47	647	631	COAp	Cortical amygdalar area, posterior part	61E7B7	9	right	156
+48	788	698	PAA	Piriform-amygdalar area	59DAAB	8	right	80
+49	566	698	TR	Postpiriform transition area	A8ECD3	8	right	74
+50	382	375	CA1	Field CA1	7ED04B	9	right	633
+51	423	375	CA2	Field CA2	7ED04B	9	right	24
+52	463	375	CA3	Field CA3	7ED04B	9	right	390
+53	726	1080	DG	Dentate gyrus	7ED04B	8	right	414
+54	982	1080	FC	Fasciola cinerea	7ED04B	8	right	5
+55	19	1080	IG	Induseum griseum	7ED04B	8	right	0
+56	909	822	ENT	Entorhinal area	32B825	8	right	736
+57	843	822	PAR	Parasubiculum	72D569	8	right	57
+58	1037	822	POST	Postsubiculum	48C83C	8	right	60
+59	1084	822	PRE	Presubiculum	59B947	8	right	56
+60	502	822	SUB	Subiculum	4FC244	8	right	122
+61	589508447	822	HATA	Hippocampo-amygdalar transition area	33B932	8	right	26
+62	583	703	CLA	Claustrum	8ADA87	8	right	34
+63	952	942	EPd	Endopiriform nucleus, dorsal part	A0EE9D	9	right	112
+64	966	942	EPv	Endopiriform nucleus, ventral part	A0EE9D	9	right	59
+65	131	703	LA	Lateral amygdalar nucleus	90EB8D	8	right	52
+66	303	295	BLAa	Basolateral amygdalar nucleus, anterior part	9DE79C	9	right	47
+67	311	295	BLAp	Basolateral amygdalar nucleus, posterior part	9DE79C	9	right	46
+68	451	295	BLAv	Basolateral amygdalar nucleus, ventral part	9DE79C	9	right	24
+69	319	703	BMA	Basomedial amygdalar nucleus	84EA81	8	right	100
+70	780	703	PA	Posterior amygdalar nucleus	97EC93	8	right	60
+71	672	485	CP	Caudoputamen	98D6F9	8	right	1631
+72	56	493	ACB	Nucleus accumbens	80CDF8	8	right	278
+73	998	493	FS	Fundus of striatum	80CDF8	8	right	32
+74	754	493	OT	Olfactory tubercle	80CDF8	8	right	242
+75	549009199	493	LSS	Lateral strip of striatum	80CDF8	8	right	0
+76	242	275	LS	Lateral septal nucleus	90CBED	8	right	187
+77	310	275	SF	Septofimbrial nucleus	90CBED	8	right	24
+78	333	275	SH	Septohippocampal nucleus	90CBED	8	right	2
+79	23	278	AAA	Anterior amygdalar area	80C0E2	8	right	33
+80	292	278	BA	Bed nucleus of the accessory olfactory tract	80C0E2	8	right	1
+81	536	278	CEA	Central amygdalar nucleus	80C0E2	8	right	82
+82	1105	278	IA	Intercalated amygdalar nucleus	80C0E2	8	right	11
+83	403	278	MEA	Medial amygdalar nucleus	80C0E2	8	right	131
+84	1022	818	GPe	Globus pallidus, external segment	8599CC	8	right	93
+85	1031	818	GPi	Globus pallidus, internal segment	8599CC	8	right	26
+86	342	835	SI	Substantia innominata	A2B1D8	8	right	184
+87	298	835	MA	Magnocellular nucleus	A2B1D8	8	right	23
+88	564	904	MS	Medial septal nucleus	96A7D3	9	right	10
+89	596	904	NDB	Diagonal band nucleus	96A7D3	9	right	41
+90	581	826	TRS	Triangular nucleus of septum	96A7D3	8	right	18
+91	351	809	BST	Bed nuclei of the stria terminalis	B3C0DF	8	right	87
+92	287	809	BAC	Bed nucleus of the anterior commissure	B3C0DF	8	right	0
+93	629	637	VAL	Ventral anterior-lateral complex of the thalamus	FF8084	8	right	49
+94	685	637	VM	Ventral medial nucleus of the thalamus	FF8084	8	right	55
+95	709	637	VP	Ventral posterior complex of the thalamus	FF8084	8	right	179
+96	563807435	637	PoT	Posterior triangular thalamic nucleus	FF8084	8	right	14
+97	406	864	SPF	Subparafascicular nucleus	FF8084	8	right	12
+98	609	864	SPA	Subparafascicular area	FF8084	8	right	5
+99	1044	864	PP	Peripeduncular nucleus	FF8084	8	right	3
+100	475	1008	MG	Medial geniculate complex	FF8084	8	right	44
+101	170	1008	LGd	Dorsal part of the lateral geniculate complex	FF8084	8	right	46
+102	218	138	LP	Lateral posterior nucleus of the thalamus	FF909F	8	right	70
+103	1020	138	PO	Posterior complex of the thalamus	FF909F	8	right	78
+104	1029	138	POL	Posterior limiting nucleus of the thalamus	FF909F	8	right	13
+105	325	138	SGN	Suprageniculate nucleus	FF909F	8	right	12
+106	255	239	AV	Anteroventral nucleus of thalamus	FF909F	8	right	23
+107	127	239	AM	Anteromedial nucleus	FF909F	8	right	26
+108	64	239	AD	Anterodorsal nucleus	FF909F	8	right	9
+109	1120	239	IAM	Interanteromedial nucleus of the thalamus	FF909F	8	right	2
+110	1113	239	IAD	Interanterodorsal nucleus of the thalamus	FF909F	8	right	6
+111	155	239	LD	Lateral dorsal nucleus of thalamus	FF909F	8	right	58
+112	59	444	IMD	Intermediodorsal nucleus of the thalamus	FF909F	8	right	2
+113	362	444	MD	Mediodorsal nucleus of thalamus	FF909F	8	right	93
+114	366	444	SMT	Submedial nucleus of the thalamus	FF909F	8	right	19
+115	1077	444	PR	Perireunensis nucleus	FF909F	8	right	10
+116	149	571	PVT	Paraventricular nucleus of the thalamus	FF909F	8	right	11
+117	15	571	PT	Parataenial nucleus	FF909F	8	right	15
+118	181	571	RE	Nucleus of reuniens	FF909F	8	right	20
+119	560581559	571	Xi	Xiphoid thalamic nucleus	FF909F	8	right	0
+120	189	51	RH	Rhomboid nucleus	FF909F	8	right	3
+121	599	51	CM	Central medial nucleus of the thalamus	FF909F	8	right	11
+122	907	51	PCN	Paracentral nucleus	FF909F	8	right	18
+123	575	51	CL	Central lateral nucleus of the thalamus	FF909F	8	right	25
+124	930	51	PF	Parafascicular nucleus	FF909F	8	right	26
+125	560581563	51	PIL	Posterior intralaminar thalamic nucleus	FF909F	8	right	13
+126	262	856	RT	Reticular nucleus of the thalamus	FF909F	8	right	90
+127	27	1014	IGL	Intergeniculate leaflet of the lateral geniculate complex	FF909F	8	right	3
+128	563807439	1014	IntG	Intermediate geniculate nucleus	FF909F	8	right	2
+129	178	1014	LGv	Ventral part of the lateral geniculate complex	FF909F	8	right	22
+130	321	1014	SubG	Subgeniculate nucleus	FF909F	8	right	2
+131	483	958	MH	Medial habenula	FF909F	8	right	22
+132	186	958	LH	Lateral habenula	FF909F	8	right	19
+133	390	157	SO	Supraoptic nucleus	FF5D50	8	right	2
+134	332	157	ASO	Accessory supraoptic group	FF5D50	7	right	0
+135	38	157	PVH	Paraventricular hypothalamic nucleus	FF5D50	8	right	10
+136	30	157	PVa	Periventricular hypothalamic nucleus, anterior part	FF5D50	9	right	0
+137	118	157	PVi	Periventricular hypothalamic nucleus, intermediate part	FF5D50	9	right	0
+138	223	157	ARH	Arcuate hypothalamic nucleus	FF5D50	8	right	12
+139	72	141	ADP	Anterodorsal preoptic nucleus	FF5547	8	right	7
+140	263	141	AVP	Anteroventral preoptic nucleus	FF5547	8	right	4
+141	272	141	AVPV	Anteroventral periventricular nucleus	FF5547	8	right	9
+142	830	141	DMH	Dorsomedial nucleus of the hypothalamus	FF5547	8	right	23
+143	452	141	MEPO	Median preoptic nucleus	FF5547	8	right	0
+144	523	141	MPO	Medial preoptic area	FF5547	8	right	42
+145	763	141	OV	Vascular organ of the lamina terminalis	FF5547	8	right	0
+146	914	141	PD	Posterodorsal preoptic nucleus	FF5547	8	right	1
+147	1109	141	PS	Parastrial nucleus	FF5547	8	right	5
+148	126	141	PVp	Periventricular hypothalamic nucleus, posterior part	FF5547	8	right	9
+149	133	141	PVpo	Periventricular hypothalamic nucleus, preoptic part	FF5547	8	right	2
+150	347	141	SBPV	Subparaventricular zone	FF5547	8	right	10
+151	286	141	SCH	Suprachiasmatic nucleus	FF5547	8	right	4
+152	338	141	SFO	Subfornical organ	FF5547	8	right	0
+153	576073699	141	VMPO	Ventromedial preoptic nucleus	FF5547	8	right	3
+154	689	141	VLPO	Ventrolateral preoptic nucleus	FF5547	8	right	7
+155	88	467	AHN	Anterior hypothalamic nucleus	FF4C3E	8	right	43
+156	210	331	LM	Lateral mammillary nucleus	FF4C3E	8	right	4
+157	491	331	MM	Medial mammillary nucleus	FF4C3E	8	right	27
+158	525	331	SUM	Supramammillary nucleus	FF4C3E	8	right	16
+159	557	331	TM	Tuberomammillary nucleus	FF4C3E	8	right	9
+160	515	467	MPN	Medial preoptic nucleus	FF4C3E	8	right	23
+161	980	467	PMd	Dorsal premammillary nucleus	FF4C3E	8	right	9
+162	1004	467	PMv	Ventral premammillary nucleus	FF4C3E	8	right	10
+163	63	467	PVHd	Paraventricular hypothalamic nucleus, descending division	FF4C3E	8	right	6
+164	693	467	VMH	Ventromedial hypothalamic nucleus	FF4C3E	8	right	33
+165	946	467	PH	Posterior hypothalamic nucleus	FF4C3E	8	right	38
+166	194	290	LHA	Lateral hypothalamic area	F2483B	8	right	133
+167	226	290	LPO	Lateral preoptic area	F2483B	8	right	37
+168	356	290	PST	Preparasubthalamic nucleus	F2483B	8	right	2
+169	364	290	PSTN	Parasubthalamic nucleus	F2483B	8	right	11
+170	576073704	290	PeF	Perifornical nucleus	F2483B	8	right	11
+171	173	290	RCH	Retrochiasmatic area	F2483B	8	right	8
+172	470	290	STN	Subthalamic nucleus	F2483B	8	right	13
+173	614	290	TU	Tuberal nucleus	F2483B	8	right	35
+174	797	290	ZI	Zona incerta	F2483B	8	right	111
+175	302	339	SCs	Superior colliculus, sensory related	FF7AFF	8	right	124
+176	4	339	IC	Inferior colliculus	FF7AFF	8	right	263
+177	580	339	NB	Nucleus of the brachium of the inferior colliculus	FF7AFF	8	right	6
+178	271	339	SAG	Nucleus sagulum	FF7AFF	8	right	6
+179	874	339	PBG	Parabigeminal nucleus	FF7AFF	8	right	3
+180	460	339	MEV	Midbrain trigeminal nucleus	FF7AFF	8	right	1
+181	599626923	339	SCO	Subcommissural organ	FF7AFF	8	right	0
+182	381	323	SNr	Substantia nigra, reticular part	FF90FF	8	right	100
+183	749	323	VTA	Ventral tegmental area	FF90FF	8	right	24
+184	607344830	323	PN	Paranigral nucleus	FF90FF	8	right	4
+185	246	323	RR	Midbrain reticular nucleus, retrorubral area	FF90FF	8	right	8
+186	128	323	MRN	Midbrain reticular nucleus	FF90FF	8	right	321
+187	294	323	SCm	Superior colliculus, motor related	FF90FF	8	right	337
+188	795	323	PAG	Periaqueductal gray	FF90FF	8	right	247
+189	50	795	PRC	Precommissural nucleus	FF90FF	9	right	10
+190	67	795	INC	Interstitial nucleus of Cajal	FF90FF	9	right	5
+191	587	795	ND	Nucleus of Darkschewitsch	FF90FF	9	right	6
+192	215	1100	APN	Anterior pretectal nucleus	FF90FF	9	right	76
+193	531	1100	MPT	Medial pretectal area	FF90FF	9	right	3
+194	628	1100	NOT	Nucleus of the optic tract	FF90FF	9	right	13
+195	634	1100	NPC	Nucleus of the posterior commissure	FF90FF	9	right	14
+196	706	1100	OP	Olivary pretectal nucleus	FF90FF	9	right	3
+197	1061	1100	PPT	Posterior pretectal nucleus	FF90FF	9	right	11
+198	549009203	1100	RPF	Retroparafascicular nucleus	FF90FF	9	right	3
+199	549009207	323	InCo	Intercollicular nucleus	FF90FF	8	right	0
+200	616	323	CUN	Cuneiform nucleus	FF90FF	8	right	35
+201	214	323	RN	Red nucleus	FF90FF	8	right	48
+202	35	323	III	Oculomotor nucleus	FF90FF	8	right	2
+203	549009211	323	MA3	Medial accesory oculomotor nucleus	FF90FF	8	right	0
+204	975	323	EW	Edinger-Westphal nucleus	FF90FF	8	right	0
+205	115	323	IV	Trochlear nucleus	FF90FF	8	right	0
+206	606826663	323	Pa4	Paratrochlear nucleus	FF90FF	8	right	2
+207	757	323	VTN	Ventral tegmental nucleus	FF90FF	8	right	1
+208	231	323	AT	Anterior tegmental nucleus	FF90FF	8	right	3
+209	66	323	LT	Lateral terminal nucleus of the accessory optic tract	FF90FF	8	right	2
+210	374	348	SNc	Substantia nigra, compact part	FFA6FF	8	right	13
+211	1052	348	PPN	Pedunculopontine nucleus	FFA6FF	8	right	53
+212	12	165	IF	Interfascicular nucleus raphe	FFA6FF	8	right	2
+213	100	165	IPN	Interpeduncular nucleus	FFA6FF	8	right	15
+214	197	165	RL	Rostral linear nucleus raphe	FFA6FF	8	right	0
+215	591	165	CLI	Central linear nucleus raphe	FFA6FF	8	right	3
+216	872	165	DR	Dorsal nucleus raphe	FFA6FF	8	right	0
+217	612	1132	NLL	Nucleus of the lateral lemniscus	FFAE6F	8	right	45
+218	7	1132	PSV	Principal sensory nucleus of the trigeminal	FFAE6F	8	right	64
+219	867	1132	PB	Parabrachial nucleus	FFAE6F	8	right	70
+220	398	1132	SOC	Superior olivary complex	FFAE6F	8	right	55
+221	280	987	B	Barrington's nucleus	FFBA86	8	right	1
+222	880	987	DTN	Dorsal tegmental nucleus	FFBA86	8	right	5
+223	599626927	987	PDTg	Posterodorsal tegmental nucleus	FFBA86	8	right	3
+224	898	987	PCG	Pontine central gray	FFBA86	8	right	32
+225	931	987	PG	Pontine gray	FFBA86	8	right	61
+226	1093	987	PRNc	Pontine reticular nucleus, caudal part	FFBA86	8	right	149
+227	318	987	SG	Supragenual nucleus	FFBA86	8	right	1
+228	534	987	SUT	Supratrigeminal nucleus	FFBA86	8	right	14
+229	574	987	TRN	Tegmental reticular nucleus	FFBA86	8	right	39
+230	621	987	V	Motor nucleus of trigeminal	FFBA86	8	right	27
+231	549009215	987	P5	Peritrigeminal zone	FFBA86	8	right	20
+232	549009219	987	Acs5	Accessory trigeminal nucleus	FFBA86	8	right	1
+233	549009223	987	PC5	Parvicellular motor 5 nucleus	FFBA86	8	right	5
+234	549009227	987	I5	Intertrigeminal nucleus	FFBA86	8	right	1
+235	679	1117	CS	Superior central nucleus raphe	FFC395	8	right	33
+236	147	1117	LC	Locus ceruleus	FFC395	8	right	1
+237	162	1117	LDT	Laterodorsal tegmental nucleus	FFC395	8	right	14
+238	604	1117	NI	Nucleus incertus	FFC395	8	right	5
+239	146	1117	PRNr	Pontine reticular nucleus	FFC395	8	right	154
+240	238	1117	RPO	Nucleus raphe pontis	FFC395	8	right	0
+241	350	1117	SLC	Subceruleus nucleus	FFC395	8	right	2
+242	358	1117	SLD	Sublaterodorsal nucleus	FFC395	8	right	4
+243	207	386	AP	Area postrema	FFA5D2	8	right	2
+244	96	607	DCO	Dorsal cochlear nucleus	FFA5D2	8	right	37
+245	101	607	VCO	Ventral cochlear nucleus	FFA5D2	8	right	63
+246	711	720	CU	Cuneate nucleus	FFA5D2	8	right	22
+247	1039	720	GR	Gracile nucleus	FFA5D2	8	right	5
+248	903	386	ECU	External cuneate nucleus	FFA5D2	8	right	16
+249	642	386	NTB	Nucleus of the trapezoid body	FFA5D2	8	right	12
+250	651	386	NTS	Nucleus of the solitary tract	FFA5D2	8	right	48
+251	429	386	SPVC	Spinal nucleus of the trigeminal, caudal part	FFA5D2	9	right	111
+252	437	386	SPVI	Spinal nucleus of the trigeminal, interpolar part	FFA5D2	9	right	116
+253	445	386	SPVO	Spinal nucleus of the trigeminal, oral part	FFA5D2	9	right	60
+254	589508451	386	Pa5	Paratrigeminal nucleus	FFA5D2	8	right	7
+255	653	370	VI	Abducens nucleus	FFB3D9	8	right	1
+256	661	370	VII	Facial motor nucleus	FFB3D9	8	right	61
+257	576	370	ACVII	Accessory facial motor nucleus	FFB3D9	8	right	0
+258	135	370	AMB	Nucleus ambiguus	FFB3D9	8	right	2
+259	839	370	DMX	Dorsal motor nucleus of the vagus nerve	FFB3D9	8	right	11
+260	1048	370	GRN	Gigantocellular reticular nucleus	FFB3D9	8	right	161
+261	372	370	ICB	Infracerebellar nucleus	FFB3D9	8	right	2
+262	83	370	IO	Inferior olivary complex	FFB3D9	8	right	30
+263	136	370	IRN	Intermediate reticular nucleus	FFB3D9	8	right	171
+264	106	370	ISN	Inferior salivatory nucleus	FFB3D9	8	right	1
+265	203	370	LIN	Linear nucleus of the medulla	FFB3D9	8	right	3
+266	235	370	LRN	Lateral reticular nucleus	FFB3D9	8	right	36
+267	307	370	MARN	Magnocellular reticular nucleus	FFB3D9	8	right	35
+268	395	370	MDRN	Medullary reticular nucleus	FFB3D9	8	right	133
+269	852	370	PARN	Parvicellular reticular nucleus	FFB3D9	8	right	144
+270	859	370	PAS	Parasolitary nucleus	FFB3D9	8	right	2
+271	938	370	PGRN	Paragigantocellular reticular nucleus	FFB3D9	8	right	52
+272	177	154	NR	Nucleus of Roller	FFB3D9	8	right	1
+273	169	154	PRP	Nucleus prepositus	FFB3D9	8	right	15
+274	1069	370	PPY	Parapyramidal nucleus	FFB3D9	8	right	6
+275	209	701	LAV	Lateral vestibular nucleus	FFB3D9	8	right	19
+276	202	701	MV	Medial vestibular nucleus	FFB3D9	8	right	109
+277	225	701	SPIV	Spinal vestibular nucleus	FFB3D9	8	right	46
+278	217	701	SUV	Superior vestibular nucleus	FFB3D9	8	right	22
+279	765	370	x	Nucleus x	FFB3D9	8	right	3
+280	773	370	XII	Hypoglossal nucleus	FFB3D9	8	right	14
+281	781	370	y	Nucleus y	FFB3D9	8	right	1
+282	206	379	RM	Nucleus raphe magnus	FFC6E2	8	right	0
+283	230	379	RPA	Nucleus raphe pallidus	FFC6E2	8	right	0
+284	222	379	RO	Nucleus raphe obscurus	FFC6E2	8	right	0
+285	912	645	LING	Lingula (I)	FFFC91	8	right	6
+286	920	645	CENT	Central lobule	FFFC91	7	right	225
+287	928	645	CUL	Culmen	FFFC91	7	right	397
+288	936	645	DEC	Declive (VI)	FFFC91	8	right	193
+289	944	645	FOTU	Folium-tuber vermis (VII)	FFFC91	8	right	61
+290	951	645	PYR	Pyramus (VIII)	FFFC91	8	right	78
+291	957	645	UVU	Uvula (IX)	FFFC91	8	right	133
+292	968	645	NOD	Nodulus (X)	FFFC91	8	right	91
+293	1007	1073	SIM	Simple lobule	FFFC91	8	right	349
+294	1017	1073	AN	Ansiform lobule	FFFC91	7	right	679
+295	1025	1073	PRM	Paramedian lobule	FFFC91	8	right	302
+296	1033	1073	COPY	Copula pyramidis	FFFC91	8	right	165
+297	1041	1073	PFL	Paraflocculus	FFFC91	8	right	360
+298	1049	1073	FL	Flocculus	FFFC91	8	right	90
+299	989	519	FN	Fastigial nucleus	FFFDBC	8	right	34
+300	91	519	IP	Interposed nucleus	FFFDBC	8	right	58
+301	846	519	DN	Dentate nucleus	FFFDBC	8	right	21
+302	589508455	519	VeCB	Vestibulocerebellar nucleus	FFFDBC	8	right	5
+303	184	315	FRP	Frontal pole, cerebral cortex	268F45	8	left	60
+304	985	500	MOp	Primary motor area	1F9D5A	8	left	710
+305	993	500	MOs	Secondary motor area	1F9D5A	8	left	801
+306	353	322	SSp-n	Primary somatosensory area, nose	188064	9	left	193
+307	329	322	SSp-bfd	Primary somatosensory area, barrel field	188064	9	left	378
+308	337	322	SSp-ll	Primary somatosensory area, lower limb	188064	9	left	145
+309	345	322	SSp-m	Primary somatosensory area, mouth	188064	9	left	386
+310	369	322	SSp-ul	Primary somatosensory area, upper limb	188064	9	left	227
+311	361	322	SSp-tr	Primary somatosensory area, trunk	188064	9	left	93
+312	182305689	322	SSp-un	Primary somatosensory area, unassigned	188064	9	left	76
+313	378	453	SSs	Supplemental somatosensory area	188064	8	left	570
+314	1057	315	GU	Gustatory areas	009C75	6	left	109
+315	677	315	VISC	Visceral area	11AD83	8	left	145
+316	1011	247	AUDd	Dorsal auditory area	19399	8	left	75
+317	1002	247	AUDp	Primary auditory area	19399	8	left	133
+318	1027	247	AUDpo	Posterior auditory area	19399	8	left	39
+319	1018	247	AUDv	Ventral auditory area	19399	8	left	116
+320	669	315	VIS	Visual areas	08858C	6	left	0
+321	402	669	VISal	Anterolateral visual area	08858C	8	left	47
+322	394	669	VISam	Anteromedial visual area	08858C	8	left	51
+323	409	669	VISl	Lateral visual area	08858C	8	left	68
+324	385	669	VISp	Primary visual area	08858C	8	left	442
+325	425	669	VISpl	Posterolateral visual area	08858C	8	left	54
+326	533	669	VISpm	posteromedial visual area	08858C	8	left	64
+327	312782574	669	VISli	Laterointermediate area	08858C	8	left	31
+328	312782628	669	VISpor	Postrhinal area	08858C	8	left	82
+329	31	315	ACA	Anterior cingulate area	40A666	8	left	374
+330	972	315	PL	Prelimbic area	2FA850	8	left	160
+331	44	315	ILA	Infralimbic area	59B363	8	left	59
+332	714	315	ORB	Orbital area	248A5E	8	left	381
+333	95	315	AI	Agranular insular area	219866	8	left	500
+334	254	315	RSP	Retrosplenial area	1AA698	8	left	658
+335	22	315	PTLp	Posterior parietal association areas	009FAC	6	left	0
+336	312782546	22	VISa	Anterior area	009FAC	8	left	87
+337	417	22	VISrl	Rostrolateral visual area	009FAC	8	left	63
+338	541	315	TEa	Temporal association areas	15B0B3	6	left	182
+339	922	315	PERI	Perirhinal area	0	8	left	47
+340	895	315	ECT	Ectorhinal area	0D9F91	8	left	113
+341	507	698	MOB	Main olfactory bulb	9AD2BD	8	left	1030
+342	151	698	AOB	Accessory olfactory bulb	9DF0D2	8	left	42
+343	159	698	AON	Anterior olfactory nucleus	54BF94	8	left	308
+344	589	698	TT	Taenia tecta	62D09F	8	left	93
+345	814	698	DP	Dorsal peduncular area	A4DAA4	8	left	36
+346	961	698	PIR	Piriform area	6ACBBA	8	left	715
+347	619	698	NLOT	Nucleus of the lateral olfactory tract	95E4C8	8	left	20
+348	639	631	COAa	Cortical amygdalar area, anterior part	61E7B7	9	left	44
+349	647	631	COAp	Cortical amygdalar area, posterior part	61E7B7	9	left	155
+350	788	698	PAA	Piriform-amygdalar area	59DAAB	8	left	76
+351	566	698	TR	Postpiriform transition area	A8ECD3	8	left	73
+352	382	375	CA1	Field CA1	7ED04B	9	left	630
+353	423	375	CA2	Field CA2	7ED04B	9	left	25
+354	463	375	CA3	Field CA3	7ED04B	9	left	387
+355	726	1080	DG	Dentate gyrus	7ED04B	8	left	417
+356	982	1080	FC	Fasciola cinerea	7ED04B	8	left	5
+357	19	1080	IG	Induseum griseum	7ED04B	8	left	10
+358	909	822	ENT	Entorhinal area	32B825	8	left	729
+359	843	822	PAR	Parasubiculum	72D569	8	left	58
+360	1037	822	POST	Postsubiculum	48C83C	8	left	59
+361	1084	822	PRE	Presubiculum	59B947	8	left	54
+362	502	822	SUB	Subiculum	4FC244	8	left	121
+363	589508447	822	HATA	Hippocampo-amygdalar transition area	33B932	8	left	28
+364	583	703	CLA	Claustrum	8ADA87	8	left	33
+365	952	942	EPd	Endopiriform nucleus, dorsal part	A0EE9D	9	left	117
+366	966	942	EPv	Endopiriform nucleus, ventral part	A0EE9D	9	left	59
+367	131	703	LA	Lateral amygdalar nucleus	90EB8D	8	left	51
+368	303	295	BLAa	Basolateral amygdalar nucleus, anterior part	9DE79C	9	left	48
+369	311	295	BLAp	Basolateral amygdalar nucleus, posterior part	9DE79C	9	left	47
+370	451	295	BLAv	Basolateral amygdalar nucleus, ventral part	9DE79C	9	left	23
+371	319	703	BMA	Basomedial amygdalar nucleus	84EA81	8	left	99
+372	780	703	PA	Posterior amygdalar nucleus	97EC93	8	left	60
+373	672	485	CP	Caudoputamen	98D6F9	8	left	1637
+374	56	493	ACB	Nucleus accumbens	80CDF8	8	left	277
+375	998	493	FS	Fundus of striatum	80CDF8	8	left	33
+376	754	493	OT	Olfactory tubercle	80CDF8	8	left	237
+377	549009199	493	LSS	Lateral strip of striatum	80CDF8	8	left	0
+378	242	275	LS	Lateral septal nucleus	90CBED	8	left	189
+379	310	275	SF	Septofimbrial nucleus	90CBED	8	left	37
+380	333	275	SH	Septohippocampal nucleus	90CBED	8	left	2
+381	23	278	AAA	Anterior amygdalar area	80C0E2	8	left	32
+382	292	278	BA	Bed nucleus of the accessory olfactory tract	80C0E2	8	left	1
+383	536	278	CEA	Central amygdalar nucleus	80C0E2	8	left	79
+384	1105	278	IA	Intercalated amygdalar nucleus	80C0E2	8	left	11
+385	403	278	MEA	Medial amygdalar nucleus	80C0E2	8	left	130
+386	1022	818	GPe	Globus pallidus, external segment	8599CC	8	left	91
+387	1031	818	GPi	Globus pallidus, internal segment	8599CC	8	left	27
+388	342	835	SI	Substantia innominata	A2B1D8	8	left	181
+389	298	835	MA	Magnocellular nucleus	A2B1D8	8	left	23
+390	564	904	MS	Medial septal nucleus	96A7D3	9	left	41
+391	596	904	NDB	Diagonal band nucleus	96A7D3	9	left	51
+392	581	826	TRS	Triangular nucleus of septum	96A7D3	8	left	26
+393	351	809	BST	Bed nuclei of the stria terminalis	B3C0DF	8	left	86
+394	287	809	BAC	Bed nucleus of the anterior commissure	B3C0DF	8	left	0
+395	629	637	VAL	Ventral anterior-lateral complex of the thalamus	FF8084	8	left	48
+396	685	637	VM	Ventral medial nucleus of the thalamus	FF8084	8	left	56
+397	709	637	VP	Ventral posterior complex of the thalamus	FF8084	8	left	180
+398	563807435	637	PoT	Posterior triangular thalamic nucleus	FF8084	8	left	13
+399	406	864	SPF	Subparafascicular nucleus	FF8084	8	left	11
+400	609	864	SPA	Subparafascicular area	FF8084	8	left	12
+401	1044	864	PP	Peripeduncular nucleus	FF8084	8	left	3
+402	475	1008	MG	Medial geniculate complex	FF8084	8	left	45
+403	170	1008	LGd	Dorsal part of the lateral geniculate complex	FF8084	8	left	47
+404	218	138	LP	Lateral posterior nucleus of the thalamus	FF909F	8	left	72
+405	1020	138	PO	Posterior complex of the thalamus	FF909F	8	left	78
+406	1029	138	POL	Posterior limiting nucleus of the thalamus	FF909F	8	left	14
+407	325	138	SGN	Suprageniculate nucleus	FF909F	8	left	11
+408	255	239	AV	Anteroventral nucleus of thalamus	FF909F	8	left	26
+409	127	239	AM	Anteromedial nucleus	FF909F	8	left	26
+410	64	239	AD	Anterodorsal nucleus	FF909F	8	left	8
+411	1120	239	IAM	Interanteromedial nucleus of the thalamus	FF909F	8	left	4
+412	1113	239	IAD	Interanterodorsal nucleus of the thalamus	FF909F	8	left	6
+413	155	239	LD	Lateral dorsal nucleus of thalamus	FF909F	8	left	58
+414	59	444	IMD	Intermediodorsal nucleus of the thalamus	FF909F	8	left	19
+415	362	444	MD	Mediodorsal nucleus of thalamus	FF909F	8	left	88
+416	366	444	SMT	Submedial nucleus of the thalamus	FF909F	8	left	20
+417	1077	444	PR	Perireunensis nucleus	FF909F	8	left	9
+418	149	571	PVT	Paraventricular nucleus of the thalamus	FF909F	8	left	34
+419	15	571	PT	Parataenial nucleus	FF909F	8	left	15
+420	181	571	RE	Nucleus of reuniens	FF909F	8	left	28
+421	560581559	571	Xi	Xiphoid thalamic nucleus	FF909F	8	left	14
+422	189	51	RH	Rhomboid nucleus	FF909F	8	left	6
+423	599	51	CM	Central medial nucleus of the thalamus	FF909F	8	left	20
+424	907	51	PCN	Paracentral nucleus	FF909F	8	left	19
+425	575	51	CL	Central lateral nucleus of the thalamus	FF909F	8	left	26
+426	930	51	PF	Parafascicular nucleus	FF909F	8	left	26
+427	560581563	51	PIL	Posterior intralaminar thalamic nucleus	FF909F	8	left	12
+428	262	856	RT	Reticular nucleus of the thalamus	FF909F	8	left	89
+429	27	1014	IGL	Intergeniculate leaflet of the lateral geniculate complex	FF909F	8	left	3
+430	563807439	1014	IntG	Intermediate geniculate nucleus	FF909F	8	left	2
+431	178	1014	LGv	Ventral part of the lateral geniculate complex	FF909F	8	left	25
+432	321	1014	SubG	Subgeniculate nucleus	FF909F	8	left	2
+433	483	958	MH	Medial habenula	FF909F	8	left	22
+434	186	958	LH	Lateral habenula	FF909F	8	left	19
+435	390	157	SO	Supraoptic nucleus	FF5D50	8	left	3
+436	332	157	ASO	Accessory supraoptic group	FF5D50	7	left	0
+437	38	157	PVH	Paraventricular hypothalamic nucleus	FF5D50	8	left	10
+438	30	157	PVa	Periventricular hypothalamic nucleus, anterior part	FF5D50	9	left	0
+439	118	157	PVi	Periventricular hypothalamic nucleus, intermediate part	FF5D50	9	left	1
+440	223	157	ARH	Arcuate hypothalamic nucleus	FF5D50	8	left	14
+441	72	141	ADP	Anterodorsal preoptic nucleus	FF5547	8	left	7
+442	263	141	AVP	Anteroventral preoptic nucleus	FF5547	8	left	5
+443	272	141	AVPV	Anteroventral periventricular nucleus	FF5547	8	left	11
+444	830	141	DMH	Dorsomedial nucleus of the hypothalamus	FF5547	8	left	23
+445	452	141	MEPO	Median preoptic nucleus	FF5547	8	left	9
+446	523	141	MPO	Medial preoptic area	FF5547	8	left	41
+447	763	141	OV	Vascular organ of the lamina terminalis	FF5547	8	left	2
+448	914	141	PD	Posterodorsal preoptic nucleus	FF5547	8	left	2
+449	1109	141	PS	Parastrial nucleus	FF5547	8	left	4
+450	126	141	PVp	Periventricular hypothalamic nucleus, posterior part	FF5547	8	left	10
+451	133	141	PVpo	Periventricular hypothalamic nucleus, preoptic part	FF5547	8	left	12
+452	347	141	SBPV	Subparaventricular zone	FF5547	8	left	10
+453	286	141	SCH	Suprachiasmatic nucleus	FF5547	8	left	4
+454	338	141	SFO	Subfornical organ	FF5547	8	left	1
+455	576073699	141	VMPO	Ventromedial preoptic nucleus	FF5547	8	left	3
+456	689	141	VLPO	Ventrolateral preoptic nucleus	FF5547	8	left	7
+457	88	467	AHN	Anterior hypothalamic nucleus	FF4C3E	8	left	44
+458	210	331	LM	Lateral mammillary nucleus	FF4C3E	8	left	5
+459	491	331	MM	Medial mammillary nucleus	FF4C3E	8	left	35
+460	525	331	SUM	Supramammillary nucleus	FF4C3E	8	left	22
+461	557	331	TM	Tuberomammillary nucleus	FF4C3E	8	left	9
+462	515	467	MPN	Medial preoptic nucleus	FF4C3E	8	left	22
+463	980	467	PMd	Dorsal premammillary nucleus	FF4C3E	8	left	8
+464	1004	467	PMv	Ventral premammillary nucleus	FF4C3E	8	left	10
+465	63	467	PVHd	Paraventricular hypothalamic nucleus, descending division	FF4C3E	8	left	7
+466	693	467	VMH	Ventromedial hypothalamic nucleus	FF4C3E	8	left	33
+467	946	467	PH	Posterior hypothalamic nucleus	FF4C3E	8	left	45
+468	194	290	LHA	Lateral hypothalamic area	F2483B	8	left	133
+469	226	290	LPO	Lateral preoptic area	F2483B	8	left	36
+470	356	290	PST	Preparasubthalamic nucleus	F2483B	8	left	1
+471	364	290	PSTN	Parasubthalamic nucleus	F2483B	8	left	9
+472	576073704	290	PeF	Perifornical nucleus	F2483B	8	left	11
+473	173	290	RCH	Retrochiasmatic area	F2483B	8	left	10
+474	470	290	STN	Subthalamic nucleus	F2483B	8	left	14
+475	614	290	TU	Tuberal nucleus	F2483B	8	left	35
+476	797	290	ZI	Zona incerta	F2483B	8	left	111
+477	302	339	SCs	Superior colliculus, sensory related	FF7AFF	8	left	133
+478	4	339	IC	Inferior colliculus	FF7AFF	8	left	268
+479	580	339	NB	Nucleus of the brachium of the inferior colliculus	FF7AFF	8	left	6
+480	271	339	SAG	Nucleus sagulum	FF7AFF	8	left	6
+481	874	339	PBG	Parabigeminal nucleus	FF7AFF	8	left	4
+482	460	339	MEV	Midbrain trigeminal nucleus	FF7AFF	8	left	1
+483	599626923	339	SCO	Subcommissural organ	FF7AFF	8	left	1
+484	381	323	SNr	Substantia nigra, reticular part	FF90FF	8	left	99
+485	749	323	VTA	Ventral tegmental area	FF90FF	8	left	26
+486	607344830	323	PN	Paranigral nucleus	FF90FF	8	left	4
+487	246	323	RR	Midbrain reticular nucleus, retrorubral area	FF90FF	8	left	8
+488	128	323	MRN	Midbrain reticular nucleus	FF90FF	8	left	320
+489	294	323	SCm	Superior colliculus, motor related	FF90FF	8	left	358
+490	795	323	PAG	Periaqueductal gray	FF90FF	8	left	279
+491	50	795	PRC	Precommissural nucleus	FF90FF	9	left	10
+492	67	795	INC	Interstitial nucleus of Cajal	FF90FF	9	left	6
+493	587	795	ND	Nucleus of Darkschewitsch	FF90FF	9	left	5
+494	215	1100	APN	Anterior pretectal nucleus	FF90FF	9	left	76
+495	531	1100	MPT	Medial pretectal area	FF90FF	9	left	3
+496	628	1100	NOT	Nucleus of the optic tract	FF90FF	9	left	12
+497	634	1100	NPC	Nucleus of the posterior commissure	FF90FF	9	left	17
+498	706	1100	OP	Olivary pretectal nucleus	FF90FF	9	left	3
+499	1061	1100	PPT	Posterior pretectal nucleus	FF90FF	9	left	11
+500	549009203	1100	RPF	Retroparafascicular nucleus	FF90FF	9	left	3
+501	549009207	323	InCo	Intercollicular nucleus	FF90FF	8	left	0
+502	616	323	CUN	Cuneiform nucleus	FF90FF	8	left	36
+503	214	323	RN	Red nucleus	FF90FF	8	left	49
+504	35	323	III	Oculomotor nucleus	FF90FF	8	left	2
+505	549009211	323	MA3	Medial accesory oculomotor nucleus	FF90FF	8	left	0
+506	975	323	EW	Edinger-Westphal nucleus	FF90FF	8	left	4
+507	115	323	IV	Trochlear nucleus	FF90FF	8	left	0
+508	606826663	323	Pa4	Paratrochlear nucleus	FF90FF	8	left	2
+509	757	323	VTN	Ventral tegmental nucleus	FF90FF	8	left	1
+510	231	323	AT	Anterior tegmental nucleus	FF90FF	8	left	3
+511	66	323	LT	Lateral terminal nucleus of the accessory optic tract	FF90FF	8	left	2
+512	374	348	SNc	Substantia nigra, compact part	FFA6FF	8	left	13
+513	1052	348	PPN	Pedunculopontine nucleus	FFA6FF	8	left	56
+514	12	165	IF	Interfascicular nucleus raphe	FFA6FF	8	left	7
+515	100	165	IPN	Interpeduncular nucleus	FFA6FF	8	left	29
+516	197	165	RL	Rostral linear nucleus raphe	FFA6FF	8	left	6
+517	591	165	CLI	Central linear nucleus raphe	FFA6FF	8	left	8
+518	872	165	DR	Dorsal nucleus raphe	FFA6FF	8	left	22
+519	612	1132	NLL	Nucleus of the lateral lemniscus	FFAE6F	8	left	48
+520	7	1132	PSV	Principal sensory nucleus of the trigeminal	FFAE6F	8	left	65
+521	867	1132	PB	Parabrachial nucleus	FFAE6F	8	left	67
+522	398	1132	SOC	Superior olivary complex	FFAE6F	8	left	52
+523	280	987	B	Barrington's nucleus	FFBA86	8	left	1
+524	880	987	DTN	Dorsal tegmental nucleus	FFBA86	8	left	4
+525	599626927	987	PDTg	Posterodorsal tegmental nucleus	FFBA86	8	left	3
+526	898	987	PCG	Pontine central gray	FFBA86	8	left	36
+527	931	987	PG	Pontine gray	FFBA86	8	left	59
+528	1093	987	PRNc	Pontine reticular nucleus, caudal part	FFBA86	8	left	149
+529	318	987	SG	Supragenual nucleus	FFBA86	8	left	1
+530	534	987	SUT	Supratrigeminal nucleus	FFBA86	8	left	13
+531	574	987	TRN	Tegmental reticular nucleus	FFBA86	8	left	41
+532	621	987	V	Motor nucleus of trigeminal	FFBA86	8	left	24
+533	549009215	987	P5	Peritrigeminal zone	FFBA86	8	left	20
+534	549009219	987	Acs5	Accessory trigeminal nucleus	FFBA86	8	left	1
+535	549009223	987	PC5	Parvicellular motor 5 nucleus	FFBA86	8	left	4
+536	549009227	987	I5	Intertrigeminal nucleus	FFBA86	8	left	2
+537	679	1117	CS	Superior central nucleus raphe	FFC395	8	left	41
+538	147	1117	LC	Locus ceruleus	FFC395	8	left	1
+539	162	1117	LDT	Laterodorsal tegmental nucleus	FFC395	8	left	13
+540	604	1117	NI	Nucleus incertus	FFC395	8	left	10
+541	146	1117	PRNr	Pontine reticular nucleus	FFC395	8	left	156
+542	238	1117	RPO	Nucleus raphe pontis	FFC395	8	left	4
+543	350	1117	SLC	Subceruleus nucleus	FFC395	8	left	2
+544	358	1117	SLD	Sublaterodorsal nucleus	FFC395	8	left	3
+545	207	386	AP	Area postrema	FFA5D2	8	left	7
+546	96	607	DCO	Dorsal cochlear nucleus	FFA5D2	8	left	40
+547	101	607	VCO	Ventral cochlear nucleus	FFA5D2	8	left	63
+548	711	720	CU	Cuneate nucleus	FFA5D2	8	left	22
+549	1039	720	GR	Gracile nucleus	FFA5D2	8	left	5
+550	903	386	ECU	External cuneate nucleus	FFA5D2	8	left	15
+551	642	386	NTB	Nucleus of the trapezoid body	FFA5D2	8	left	12
+552	651	386	NTS	Nucleus of the solitary tract	FFA5D2	8	left	52
+553	429	386	SPVC	Spinal nucleus of the trigeminal, caudal part	FFA5D2	9	left	112
+554	437	386	SPVI	Spinal nucleus of the trigeminal, interpolar part	FFA5D2	9	left	115
+555	445	386	SPVO	Spinal nucleus of the trigeminal, oral part	FFA5D2	9	left	56
+556	589508451	386	Pa5	Paratrigeminal nucleus	FFA5D2	8	left	6
+557	653	370	VI	Abducens nucleus	FFB3D9	8	left	1
+558	661	370	VII	Facial motor nucleus	FFB3D9	8	left	60
+559	576	370	ACVII	Accessory facial motor nucleus	FFB3D9	8	left	0
+560	135	370	AMB	Nucleus ambiguus	FFB3D9	8	left	2
+561	839	370	DMX	Dorsal motor nucleus of the vagus nerve	FFB3D9	8	left	10
+562	1048	370	GRN	Gigantocellular reticular nucleus	FFB3D9	8	left	183
+563	372	370	ICB	Infracerebellar nucleus	FFB3D9	8	left	3
+564	83	370	IO	Inferior olivary complex	FFB3D9	8	left	28
+565	136	370	IRN	Intermediate reticular nucleus	FFB3D9	8	left	170
+566	106	370	ISN	Inferior salivatory nucleus	FFB3D9	8	left	1
+567	203	370	LIN	Linear nucleus of the medulla	FFB3D9	8	left	2
+568	235	370	LRN	Lateral reticular nucleus	FFB3D9	8	left	38
+569	307	370	MARN	Magnocellular reticular nucleus	FFB3D9	8	left	33
+570	395	370	MDRN	Medullary reticular nucleus	FFB3D9	8	left	134
+571	852	370	PARN	Parvicellular reticular nucleus	FFB3D9	8	left	145
+572	859	370	PAS	Parasolitary nucleus	FFB3D9	8	left	2
+573	938	370	PGRN	Paragigantocellular reticular nucleus	FFB3D9	8	left	52
+574	177	154	NR	Nucleus of Roller	FFB3D9	8	left	1
+575	169	154	PRP	Nucleus prepositus	FFB3D9	8	left	17
+576	1069	370	PPY	Parapyramidal nucleus	FFB3D9	8	left	6
+577	209	701	LAV	Lateral vestibular nucleus	FFB3D9	8	left	18
+578	202	701	MV	Medial vestibular nucleus	FFB3D9	8	left	109
+579	225	701	SPIV	Spinal vestibular nucleus	FFB3D9	8	left	49
+580	217	701	SUV	Superior vestibular nucleus	FFB3D9	8	left	21
+581	765	370	x	Nucleus x	FFB3D9	8	left	3
+582	773	370	XII	Hypoglossal nucleus	FFB3D9	8	left	15
+583	781	370	y	Nucleus y	FFB3D9	8	left	1
+584	206	379	RM	Nucleus raphe magnus	FFC6E2	8	left	29
+585	230	379	RPA	Nucleus raphe pallidus	FFC6E2	8	left	18
+586	222	379	RO	Nucleus raphe obscurus	FFC6E2	8	left	17
+587	912	645	LING	Lingula (I)	FFFC91	8	left	11
+588	920	645	CENT	Central lobule	FFFC91	7	left	277
+589	928	645	CUL	Culmen	FFFC91	7	left	444
+590	936	645	DEC	Declive (VI)	FFFC91	8	left	224
+591	944	645	FOTU	Folium-tuber vermis (VII)	FFFC91	8	left	70
+592	951	645	PYR	Pyramus (VIII)	FFFC91	8	left	93
+593	957	645	UVU	Uvula (IX)	FFFC91	8	left	156
+594	968	645	NOD	Nodulus (X)	FFFC91	8	left	110
+595	1007	1073	SIM	Simple lobule	FFFC91	8	left	348
+596	1017	1073	AN	Ansiform lobule	FFFC91	7	left	678
+597	1025	1073	PRM	Paramedian lobule	FFFC91	8	left	298
+598	1033	1073	COPY	Copula pyramidis	FFFC91	8	left	166
+599	1041	1073	PFL	Paraflocculus	FFFC91	8	left	361
+600	1049	1073	FL	Flocculus	FFFC91	8	left	87
+601	989	519	FN	Fastigial nucleus	FFFDBC	8	left	33
+602	91	519	IP	Interposed nucleus	FFFDBC	8	left	60
+603	846	519	DN	Dentate nucleus	FFFDBC	8	left	21
+604	589508455	519	VeCB	Vestibulocerebellar nucleus	FFFDBC	8	left	5
