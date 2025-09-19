@@ -4,7 +4,7 @@ This repository contains the code to reproduce the results of:
 **"Multiscale Brain Dynamics at the Edge of Criticality"**  
 Rabuffo, G.; Bozzo, P.; Nguyen, B.; Depannemeacker, D.; Pompili, M.; Gollo, L.; Fukai, T.; Sorrentino, P.; Dalla Porta, L. (2025).
 
-![alt text](https://github.com/grabuffo/Multiscale_Brain_Criticality/blob/main/DallaPorta_Figure_1.pdf)
+![alt text](https://github.com/grabuffo/Multiscale_Brain_Criticality/blob/main/DallaPorta_Figure_1.png)
 
 ---
 
