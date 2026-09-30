@@ -7,7 +7,7 @@ matplotlib
 seaborn
 networkx
 jupyter
-# Revision scripts (revision/round1, revision/prr)
+# Notebooks 8-9 and scripts/
 numba
 nolds
 powerlaw
