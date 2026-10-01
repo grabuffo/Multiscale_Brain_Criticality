@@ -9,6 +9,7 @@ import math
 import pickle
 import gzip
 import numpy as np
+_trapz = getattr(np, "trapezoid", None) or np.trapz  # NumPy 2 renamed trapz
 from scipy import stats
 import matplotlib.pylab as plt
 import matplotlib.cm as cm
@@ -89,7 +90,7 @@ def measure_events(time_series, threshold, dir=1):
     
     for start, end in zip(start_indices, end_indices):
         duration = end - start + 1
-        integral = np.trapz(time_series[start:end+1])
+        integral = _trapz(time_series[start:end+1])
         durations.append(duration)
         integrals.append(integral)
     

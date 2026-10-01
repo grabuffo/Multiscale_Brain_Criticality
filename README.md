@@ -1,8 +1,8 @@
 # Multiscale_Brain_Criticality
 
 This repository contains the code to reproduce the results of:  
-**"Multiscale Brain Dynamics at the Edge of Criticality"**  
-Rabuffo, G.; Bozzo, P.; Nguyen, B.; Depannemeacker, D.; Pompili, M.; Gollo, L.; Fukai, T.; Sorrentino, P.; Dalla Porta, L. (2025).
+**"The Connectome Modulates Critical Brain Dynamics Across Local and Global Scales"**  
+Rabuffo, G.; Bozzo, P.; Nguyen, B.; Depannemeacker, D.; Pompili, M.; Gollo, L.; Fukai, T.; Sorrentino, P.; Dalla Porta, L.
 
 ![alt text](https://github.com/grabuffo/Multiscale_Brain_Criticality/blob/main/DallaPorta_Figure_1.png)
 
@@ -45,8 +45,21 @@ The repository is organized into numbered Jupyter notebooks. Running them in ord
 | **5) Whole_brain_simulations**     | Embeds local models into the empirical connectome and runs large-scale simulations across coupling strengths \(G\). |
 | **6) Whole_brain_RAW_analysis**    | Analyzes raw neural activity: autocorrelations, metastability, avalanche statistics, timescale gradients. |
 | **7) Whole_brain_BOLD_analysis**   | Transforms neural activity into BOLD signals (Balloon–Windkessel model), computes FC/dFC, and compares with empirical fMRI. |
+| **8) Supplementary_analyses**      | Avalanche size/duration statistics (Fig. 1D), bistable window, and Supplementary Figures S4–S12 (in-strength gradients, structural-null surrogates, DFA, phase-randomized control, structured heterogeneity, BOLD vs neural-scale signatures). |
+| **9) Spiking_network_simulations** | Validation with the full microscopic model: whole-brain network of spiking neurons (Suppl. Fig. S13) and two coupled spiking populations (Suppl. Fig. S14). |
 
 ---
+
+## Code organization
+
+- `notebooks/` — numbered notebooks, to be run in order.
+- `src/` — model and analysis functions (TVB model and coupling, avalanche and FC/dFC utilities), plus `simulators_numba.py` (standalone numba implementation of the mean-field and spiking-network models), `indicators.py` (susceptibility, DFA) and `paths.py` (all paths).
+- `scripts/` — scripts called by notebooks 8–9; each script states in its header which figure it produces. Long simulations can be run directly from a terminal (`python scripts/<name>.py`).
+- `data/` — Allen connectome, empirical fMRI data, and `data/derived/` (cortical connectome, surrogate connectomes, in-strength, local-parameter gradients).
+
+Whole-brain simulation outputs are large and are not stored in the repository. Notebooks 5 and 8 write/read them in the folder given by the environment variable `MBC_SIM_ROOT` (default: `<repo>/simulations`). Generated figures are written to `figures/`.
+
+The spiking-network simulator draws random numbers inside parallel loops, so repeated runs with the same seed are statistically equivalent but not bit-identical.
 
 ## Reproducing Results
 
@@ -58,15 +71,17 @@ The repository is organized into numbered Jupyter notebooks. Running them in ord
 
 ## Requirements
 
-- Python 3.9+  
-- Jupyter Notebook  
-- The Virtual Brain
-- NumPy, SciPy, Pandas, Matplotlib, NetworkX  
+- Python 3.9+ (original notebooks: The Virtual Brain, NumPy < 2)
+- Jupyter Notebook
+- NumPy, SciPy, Pandas, Matplotlib, Seaborn, NetworkX
+- Notebooks 8–9: numba, nolds, powerlaw
+
+See `requirements.txt`.
 
 ---
 
 ## Citation
 
 If you use this code, please cite:  
-**Rabuffo, G.; Bozzo, P.; Nguyen, B.; Depannemeacker, D.; Pompili, M.; Gollo, L.; Fukai, T.; Sorrentino, P.; Dalla Porta, L. (2025). Multiscale Brain Dynamics at the Edge of Criticality.**
+**Rabuffo, G.; Bozzo, P.; Nguyen, B.; Depannemeacker, D.; Pompili, M.; Gollo, L.; Fukai, T.; Sorrentino, P.; Dalla Porta, L. The Connectome Modulates Critical Brain Dynamics Across Local and Global Scales.**
 

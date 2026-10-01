@@ -1,0 +1,13 @@
+# Original notebooks (TVB whole-brain simulations): The Virtual Brain requires NumPy < 2
+tvb-library
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+networkx
+jupyter
+# Notebooks 8-9 and scripts/
+numba
+nolds
+powerlaw

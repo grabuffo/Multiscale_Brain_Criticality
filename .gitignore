@@ -1,0 +1,18 @@
+# Python / Jupyter
+__pycache__/
+*.nbi
+*.nbc
+.ipynb_checkpoints/
+.DS_Store
+# Generated figures and analysis outputs (the input .npy files in data/derived/ are tracked)
+figures/
+data/derived/*.pkl
+data/derived/*.png
+data/derived/spk_wb/
+data/derived/two_pop_spk/
+data/derived/AC1_local.npy
+data/derived/rho_instr_AC1.npy
+data/derived/non_monotonicity_score_crit.npy
+data/derived/var_AC1_per_G.npy
+# Large simulation outputs (see src/paths.py, MBC_SIM_ROOT)
+simulations/

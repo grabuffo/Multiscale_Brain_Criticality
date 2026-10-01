@@ -90,7 +90,7 @@ class MF_LG_CouplingR(Model):
     # for each state variable define bonudaries
     state_variable_boundaries = Final(
         label="Boundary for R",
-        default={"R": np.array([0.000001, np.infty])})
+        default={"R": np.array([0.000001, np.inf])})
     # indices of variables entering the node-to-node coupling
     cvar = np.array([0,1],dtype=np.int32)
     #cvar = np.array([0,1],dtype=np.int32)
